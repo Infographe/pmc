@@ -1,0 +1,1001 @@
+id_diabete,annee,patho_niv1,patho_niv2,patho_niv3,top,region,dept,ntop,npop,prevalence,libelle_classe_age,libelle_sexe
+1,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,0,9240,,de 0 a  4 ans,hommes
+2,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,973,0,11040,,de 0 a  4 ans,hommes
+3,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,0,32400,,de 0 a  4 ans,hommes
+4,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,0,32400,,de 0 a  4 ans,hommes
+5,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,0,8090,,de 0 a  4 ans,hommes
+6,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,10,45960,0.03,de 0 a  4 ans,hommes
+7,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,30,43670,0.057,de 0 a  4 ans,hommes
+8,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,0,6730,,de 0 a  4 ans,hommes
+9,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,0,11650,,de 0 a  4 ans,hommes
+10,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,30,64200,0.042,de 0 a  4 ans,hommes
+11,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,0,12800,,de 0 a  4 ans,hommes
+12,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,0,14620,,de 0 a  4 ans,hommes
+13,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,0,7640,,de 0 a  4 ans,hommes
+14,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,0,16500,,de 0 a  4 ans,hommes
+15,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,0,13580,,de 0 a  4 ans,hommes
+16,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,0,23920,,de 0 a  4 ans,hommes
+17,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,20,39810,0.04,de 0 a  4 ans,hommes
+18,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,0,14700,,de 0 a  4 ans,hommes
+19,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,10,23070,0.056,de 0 a  4 ans,hommes
+20,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,0,29610,,de 0 a  4 ans,hommes
+21,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,0,19340,,de 0 a  4 ans,hommes
+22,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,0,7880,,de 0 a  4 ans,hommes
+23,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,0,21840,,de 0 a  4 ans,hommes
+24,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,30,99880,0.025,de 0 a  4 ans,hommes
+25,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,0,13060,,de 0 a  4 ans,hommes
+26,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,0,29490,,de 0 a  4 ans,hommes
+27,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,20,80210,0.026,de 0 a  4 ans,hommes
+28,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,0,4680,,de 0 a  4 ans,hommes
+29,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,0,1960,,de 0 a  4 ans,hommes
+30,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,0,7730,,de 0 a  4 ans,hommes
+31,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,10,31010,0.039,de 0 a  4 ans,hommes
+32,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,50,145090,0.035,de 0 a  4 ans,hommes
+33,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,0,17930,,de 0 a  4 ans,hommes
+34,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,0,6940,,de 0 a  4 ans,hommes
+35,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,0,20510,,de 0 a  4 ans,hommes
+36,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,0,23670,,de 0 a  4 ans,hommes
+37,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,70,220160,0.033,de 0 a  4 ans,hommes
+38,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,0,3040,,de 0 a  4 ans,hommes
+39,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,0,3200,,de 0 a  4 ans,hommes
+40,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,0,10520,,de 0 a  4 ans,femmes
+41,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,0,31350,,de 0 a  4 ans,femmes
+42,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,10,49260,0.026,de 0 a  4 ans,femmes
+43,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,10,59760,0.022,de 0 a  4 ans,femmes
+44,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,10,44080,0.032,de 0 a  4 ans,femmes
+45,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,10,43850,0.03,de 0 a  4 ans,femmes
+46,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,0,6360,,de 0 a  4 ans,femmes
+47,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,0,4060,,de 0 a  4 ans,femmes
+48,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,0,12340,,de 0 a  4 ans,femmes
+49,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,0,13590,,de 0 a  4 ans,femmes
+50,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,0,5030,,de 0 a  4 ans,femmes
+51,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,30,62520,0.046,de 0 a  4 ans,femmes
+52,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,40,158460,0.026,de 0 a  4 ans,femmes
+53,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,0,21770,,de 0 a  4 ans,femmes
+54,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,50,126120,0.036,de 0 a  4 ans,femmes
+55,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,0,20640,,de 0 a  4 ans,femmes
+56,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,30,94090,0.027,de 0 a  4 ans,femmes
+57,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,20,75730,0.025,de 0 a  4 ans,femmes
+58,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,0,8400,,de 0 a  4 ans,femmes
+59,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,0,6870,,de 0 a  4 ans,femmes
+60,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,0,14140,,de 0 a  4 ans,femmes
+61,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,0,7700,,de 0 a  4 ans,femmes
+62,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,0,4290,,de 0 a  4 ans,femmes
+63,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,0,6090,,de 0 a  4 ans,femmes
+64,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,0,3000,,de 0 a  4 ans,femmes
+65,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,50,137370,0.034,de 0 a  4 ans,femmes
+66,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,0,16820,,de 0 a  4 ans,femmes
+67,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,10,34000,0.032,de 0 a  4 ans,femmes
+68,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,0,15260,,de 0 a  4 ans,femmes
+69,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,20,56210,0.041,de 0 a  4 ans,femmes
+70,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,60,208000,0.03,de 0 a  4 ans,femmes
+71,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,0,16320,,de 0 a  4 ans,tous sexes
+72,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,0,15820,,de 0 a  4 ans,tous sexes
+73,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,40,89450,0.04,de 0 a  4 ans,tous sexes
+74,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,30,101480,0.033,de 0 a  4 ans,tous sexes
+75,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,30,89840,0.038,de 0 a  4 ans,tous sexes
+76,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,260,768550,0.034,de 0 a  4 ans,tous sexes
+77,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,45,10,36980,0.035,de 0 a  4 ans,tous sexes
+78,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,0,28210,,de 0 a  4 ans,tous sexes
+79,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,0,11470,,de 0 a  4 ans,tous sexes
+80,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,0,7570,,de 0 a  4 ans,tous sexes
+81,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,10,15120,0.073,de 0 a  4 ans,tous sexes
+82,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,90,0,6990,,de 0 a  4 ans,tous sexes
+83,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,50,128320,0.038,de 0 a  4 ans,tous sexes
+84,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,0,21420,,de 0 a  4 ans,tous sexes
+85,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,30,67040,0.045,de 0 a  4 ans,tous sexes
+86,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,60,163360,0.039,de 0 a  4 ans,tous sexes
+87,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,50,147980,0.036,de 0 a  4 ans,tous sexes
+88,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,10,0,14860,,de 0 a  4 ans,tous sexes
+89,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,20,32810,0.046,de 0 a  4 ans,tous sexes
+90,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,0,7760,,de 0 a  4 ans,tous sexes
+91,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,0,12840,,de 0 a  4 ans,tous sexes
+92,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,100,259410,0.037,de 0 a  4 ans,tous sexes
+93,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,20,79420,0.019,de 0 a  4 ans,tous sexes
+94,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,10,42480,0.026,de 0 a  4 ans,tous sexes
+95,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,10,27520,0.04,de 0 a  4 ans,tous sexes
+96,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,0,15000,,de 0 a  4 ans,tous sexes
+97,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,30,83330,0.03,de 0 a  4 ans,tous sexes
+98,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,0,19890,,de 0 a  4 ans,tous sexes
+99,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,90,265380,0.032,de 0 a  4 ans,tous sexes
+100,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,0,7080,,de 0 a  4 ans,tous sexes
+101,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,0,6260,,de 0 a  4 ans,tous sexes
+102,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,2840,,de 0 a  4 ans,tous sexes
+103,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,0,12600,,de 0 a  4 ans,tous sexes
+104,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,0,5200,,de 0 a  4 ans,tous sexes
+105,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,0,13490,,de 0 a  4 ans,tous sexes
+106,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,20,69650,0.033,de 0 a  4 ans,tous sexes
+107,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,10,39870,0.03,de 0 a  4 ans,tous sexes
+108,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,0,9860,,de 0 a  4 ans,tous sexes
+109,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,20,46330,0.035,de 0 a  4 ans,tous sexes
+110,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,40,118550,0.036,de 0 a  4 ans,tous sexes
+111,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,0,6930,,de 0 a  4 ans,tous sexes
+112,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,10,13130,0.099,de 0 a  4 ans,tous sexes
+113,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,0,9250,,de 5 a  9 ans,hommes
+114,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,973,0,9890,,de 5 a  9 ans,hommes
+115,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,40,34600,0.107,de 5 a  9 ans,hommes
+116,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,0,5650,,de 5 a  9 ans,hommes
+117,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,60,45890,0.129,de 5 a  9 ans,hommes
+118,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,80,48150,0.166,de 5 a  9 ans,hommes
+119,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,70,44830,0.152,de 5 a  9 ans,hommes
+120,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,60,44260,0.127,de 5 a  9 ans,hommes
+121,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,60,46220,0.132,de 5 a  9 ans,hommes
+122,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,0,4840,,de 5 a  9 ans,hommes
+123,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,20,8850,0.192,de 5 a  9 ans,hommes
+124,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,90,71770,0.125,de 5 a  9 ans,hommes
+125,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,0,6290,,de 5 a  9 ans,hommes
+126,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,10,8840,0.158,de 5 a  9 ans,hommes
+127,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,100,74940,0.133,de 5 a  9 ans,hommes
+128,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,20,19010,0.116,de 5 a  9 ans,hommes
+129,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,10,18230,0.071,de 5 a  9 ans,hommes
+130,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,110,93740,0.121,de 5 a  9 ans,hommes
+131,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,20,15630,0.147,de 5 a  9 ans,hommes
+132,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,30,26570,0.12,de 5 a  9 ans,hommes
+133,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,240,188340,0.125,de 5 a  9 ans,hommes
+134,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,0,4340,,de 5 a  9 ans,hommes
+135,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,0,7410,,de 5 a  9 ans,hommes
+136,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,60,44730,0.13,de 5 a  9 ans,hommes
+137,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,0,8860,,de 5 a  9 ans,hommes
+138,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,30,15550,0.174,de 5 a  9 ans,hommes
+139,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,20,24340,0.09,de 5 a  9 ans,hommes
+140,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,16,0,8670,,de 5 a  9 ans,hommes
+141,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,20,15850,0.12,de 5 a  9 ans,hommes
+142,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,0,2290,,de 5 a  9 ans,hommes
+143,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,10,9130,0.121,de 5 a  9 ans,hommes
+144,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,10,8540,0.129,de 5 a  9 ans,hommes
+145,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,0,10130,,de 5 a  9 ans,hommes
+146,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,20,9270,0.194,de 5 a  9 ans,hommes
+147,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,0,6640,,de 5 a  9 ans,hommes
+148,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,30,21580,0.153,de 5 a  9 ans,hommes
+149,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,0,4520,,de 5 a  9 ans,hommes
+150,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,0,5420,,de 5 a  9 ans,hommes
+151,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,0,7730,,de 5 a  9 ans,hommes
+152,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,0,3710,,de 5 a  9 ans,hommes
+153,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,30,23130,0.143,de 5 a  9 ans,hommes
+154,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,20,17500,0.137,de 5 a  9 ans,hommes
+155,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,90,61030,0.151,de 5 a  9 ans,hommes
+156,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,0,8550,,de 5 a  9 ans,hommes
+157,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,320,240200,0.133,de 5 a  9 ans,hommes
+158,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,0,4200,,de 5 a  9 ans,hommes
+159,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,40,17470,0.246,de 5 a  9 ans,hommes
+160,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,10,7250,0.179,de 5 a  9 ans,hommes
+161,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,2580,1962300,0.132,de 5 a  9 ans,hommes
+162,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,0,10470,,de 5 a  9 ans,femmes
+163,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,20,9070,0.176,de 5 a  9 ans,femmes
+164,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,50,47660,0.103,de 5 a  9 ans,femmes
+165,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,500,369070,0.136,de 5 a  9 ans,femmes
+166,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,10,12450,0.112,de 5 a  9 ans,femmes
+167,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,20,13390,0.142,de 5 a  9 ans,femmes
+168,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,0,5980,,de 5 a  9 ans,femmes
+169,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,20,13400,0.127,de 5 a  9 ans,femmes
+170,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,90,70930,0.133,de 5 a  9 ans,femmes
+171,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,20,17490,0.137,de 5 a  9 ans,femmes
+172,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,0,6540,,de 5 a  9 ans,femmes
+173,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,120,79450,0.152,de 5 a  9 ans,femmes
+174,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,40,25020,0.172,de 5 a  9 ans,femmes
+175,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,50,43900,0.112,de 5 a  9 ans,femmes
+176,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,30,17890,0.145,de 5 a  9 ans,femmes
+177,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,10,8760,0.16,de 5 a  9 ans,femmes
+178,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,0,8510,,de 5 a  9 ans,femmes
+179,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,10,15480,0.078,de 5 a  9 ans,femmes
+180,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,20,18230,0.121,de 5 a  9 ans,femmes
+181,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,20,23020,0.091,de 5 a  9 ans,femmes
+182,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,50,31490,0.143,de 5 a  9 ans,femmes
+183,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,0,5070,,de 5 a  9 ans,femmes
+184,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,0,8650,,de 5 a  9 ans,femmes
+185,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,10,8180,0.171,de 5 a  9 ans,femmes
+186,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,10,9130,0.153,de 5 a  9 ans,femmes
+187,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,0,6260,,de 5 a  9 ans,femmes
+188,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,0,3540,,de 5 a  9 ans,femmes
+189,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,0,5090,,de 5 a  9 ans,femmes
+190,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,220,155690,0.14,de 5 a  9 ans,femmes
+191,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,20,18730,0.112,de 5 a  9 ans,femmes
+192,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,30,21740,0.138,de 5 a  9 ans,femmes
+193,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,0,8300,,de 5 a  9 ans,femmes
+194,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,20,11620,0.172,de 5 a  9 ans,femmes
+195,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,290,227650,0.129,de 5 a  9 ans,femmes
+196,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,100,61020,0.169,de 5 a  9 ans,femmes
+197,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,2420,1865900,0.13,de 5 a  9 ans,femmes
+198,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,30,18320,0.136,de 5 a  9 ans,tous sexes
+199,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,0,19240,,de 5 a  9 ans,tous sexes
+200,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,110,90270,0.116,de 5 a  9 ans,tous sexes
+201,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,120,97670,0.124,de 5 a  9 ans,tous sexes
+202,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,180,115690,0.159,de 5 a  9 ans,tous sexes
+203,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,10,14570,0.096,de 5 a  9 ans,tous sexes
+204,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,0,9580,,de 5 a  9 ans,tous sexes
+205,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,20,13320,0.158,de 5 a  9 ans,tous sexes
+206,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,30,27500,0.095,de 5 a  9 ans,tous sexes
+207,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,190,145880,0.133,de 5 a  9 ans,tous sexes
+208,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,40,37040,0.1,de 5 a  9 ans,tous sexes
+209,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,40,35720,0.104,de 5 a  9 ans,tous sexes
+210,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,20,13340,0.142,de 5 a  9 ans,tous sexes
+211,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,100,72620,0.143,de 5 a  9 ans,tous sexes
+212,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,0,9110,,de 5 a  9 ans,tous sexes
+213,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,60,42070,0.15,de 5 a  9 ans,tous sexes
+214,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,20,14560,0.124,de 5 a  9 ans,tous sexes
+215,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,370,289890,0.128,de 5 a  9 ans,tous sexes
+216,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,110,87460,0.123,de 5 a  9 ans,tous sexes
+217,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,10,17370,0.081,de 5 a  9 ans,tous sexes
+218,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,40,37340,0.104,de 5 a  9 ans,tous sexes
+219,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,250,223340,0.111,de 5 a  9 ans,tous sexes
+220,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,40,47360,0.091,de 5 a  9 ans,tous sexes
+221,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,50,31070,0.148,de 5 a  9 ans,tous sexes
+222,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,20,10560,0.142,de 5 a  9 ans,tous sexes
+223,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,30,21260,0.127,de 5 a  9 ans,tous sexes
+224,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,20,19720,0.091,de 5 a  9 ans,tous sexes
+225,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,10,12900,0.093,de 5 a  9 ans,tous sexes
+226,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,60,42070,0.147,de 5 a  9 ans,tous sexes
+227,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,120,81910,0.15,de 5 a  9 ans,tous sexes
+228,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,80,65350,0.127,de 5 a  9 ans,tous sexes
+229,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,10,7240,0.18,de 5 a  9 ans,tous sexes
+230,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,10,10500,0.124,de 5 a  9 ans,tous sexes
+231,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,30,25250,0.135,de 5 a  9 ans,tous sexes
+232,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,30,14960,0.18,de 5 a  9 ans,tous sexes
+233,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,0,7230,,de 5 a  9 ans,tous sexes
+234,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,60,44880,0.14,de 5 a  9 ans,tous sexes
+235,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,20,16850,0.113,de 5 a  9 ans,tous sexes
+236,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,610,467860,0.131,de 5 a  9 ans,tous sexes
+237,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,200,125110,0.157,de 5 a  9 ans,tous sexes
+238,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,0,7070,,de 5 a  9 ans,tous sexes
+239,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,10,6670,0.21,de 5 a  9 ans,tous sexes
+240,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,30,12060,0.224,de 10 a  14 ans,hommes
+241,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,130,43830,0.303,de 10 a  14 ans,hommes
+242,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,140,48140,0.299,de 10 a  14 ans,hommes
+243,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,140,41600,0.332,de 10 a  14 ans,hommes
+244,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,30,8120,0.32,de 10 a  14 ans,hommes
+245,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,10,5440,0.239,de 10 a  14 ans,hommes
+246,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,30,9520,0.263,de 10 a  14 ans,hommes
+247,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,45,80,21250,0.362,de 10 a  14 ans,hommes
+248,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,220,76080,0.294,de 10 a  14 ans,hommes
+249,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,30,14610,0.192,de 10 a  14 ans,hommes
+250,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,240,98620,0.241,de 10 a  14 ans,hommes
+251,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,250,83410,0.3,de 10 a  14 ans,hommes
+252,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,130,47990,0.267,de 10 a  14 ans,hommes
+253,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,540,191510,0.283,de 10 a  14 ans,hommes
+254,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,10,4480,0.245,de 10 a  14 ans,hommes
+255,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,20,7990,0.2,de 10 a  14 ans,hommes
+256,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,440,153740,0.284,de 10 a  14 ans,hommes
+257,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,70,26730,0.251,de 10 a  14 ans,hommes
+258,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,260,122040,0.216,de 10 a  14 ans,hommes
+259,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,50,22520,0.231,de 10 a  14 ans,hommes
+260,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,20,6090,0.263,de 10 a  14 ans,hommes
+261,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,0,2530,,de 10 a  14 ans,hommes
+262,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,30,12410,0.201,de 10 a  14 ans,hommes
+263,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,420,167410,0.249,de 10 a  14 ans,hommes
+264,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,120,34570,0.336,de 10 a  14 ans,hommes
+265,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,10,4190,0.31,de 10 a  14 ans,hommes
+266,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,2000,,de 10 a  14 ans,hommes
+267,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,10,5950,0.235,de 10 a  14 ans,hommes
+268,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,490,171590,0.283,de 10 a  14 ans,hommes
+269,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,10,3440,0.348,de 10 a  14 ans,hommes
+270,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,26,50,16000,0.325,de 10 a  14 ans,hommes
+271,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,30,8560,0.292,de 10 a  14 ans,hommes
+272,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,100,42170,0.232,de 10 a  14 ans,hommes
+273,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,20,6490,0.231,de 10 a  14 ans,hommes
+274,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,50,18290,0.252,de 10 a  14 ans,hommes
+275,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,70,24980,0.264,de 10 a  14 ans,hommes
+276,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,60,17560,0.342,de 10 a  14 ans,hommes
+277,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,30,7770,0.335,de 10 a  14 ans,hommes
+278,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,30,11510,0.261,de 10 a  14 ans,femmes
+279,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,30,10030,0.319,de 10 a  14 ans,femmes
+280,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,973,20,9090,0.165,de 10 a  14 ans,femmes
+281,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,80,34150,0.22,de 10 a  14 ans,femmes
+282,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,150,46150,0.316,de 10 a  14 ans,femmes
+283,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,110,46190,0.232,de 10 a  14 ans,femmes
+284,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,190,51910,0.364,de 10 a  14 ans,femmes
+285,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,1030,361550,0.284,de 10 a  14 ans,femmes
+286,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,20,7640,0.301,de 10 a  14 ans,femmes
+287,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,20,9290,0.226,de 10 a  14 ans,femmes
+288,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,10,7210,0.194,de 10 a  14 ans,femmes
+289,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,0,6580,,de 10 a  14 ans,femmes
+290,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,40,9080,0.385,de 10 a  14 ans,femmes
+291,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,50,18610,0.263,de 10 a  14 ans,femmes
+292,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,110,36000,0.292,de 10 a  14 ans,femmes
+293,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,40,15930,0.27,de 10 a  14 ans,femmes
+294,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,520,183640,0.285,de 10 a  14 ans,femmes
+295,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,20,4470,0.403,de 10 a  14 ans,femmes
+296,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,30,7770,0.322,de 10 a  14 ans,femmes
+297,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,410,147460,0.275,de 10 a  14 ans,femmes
+298,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,60,25940,0.247,de 10 a  14 ans,femmes
+299,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,50,16890,0.314,de 10 a  14 ans,femmes
+300,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,40,20690,0.184,de 10 a  14 ans,femmes
+301,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,260,117630,0.224,de 10 a  14 ans,femmes
+302,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,40,17050,0.258,de 10 a  14 ans,femmes
+303,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,60,25350,0.237,de 10 a  14 ans,femmes
+304,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,50,21390,0.238,de 10 a  14 ans,femmes
+305,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,0,2520,,de 10 a  14 ans,femmes
+306,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,20,10830,0.212,de 10 a  14 ans,femmes
+307,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,380,160460,0.234,de 10 a  14 ans,femmes
+308,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,30,10140,0.286,de 10 a  14 ans,femmes
+309,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,20,7000,0.329,de 10 a  14 ans,femmes
+310,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,90,21890,0.425,de 10 a  14 ans,femmes
+311,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,1970,,de 10 a  14 ans,femmes
+312,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,40,13210,0.303,de 10 a  14 ans,femmes
+313,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,10,3420,0.38,de 10 a  14 ans,femmes
+314,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,26,40,15420,0.227,de 10 a  14 ans,femmes
+315,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,110,39930,0.273,de 10 a  14 ans,femmes
+316,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,10,6230,0.225,de 10 a  14 ans,femmes
+317,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,130,56800,0.232,de 10 a  14 ans,femmes
+318,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,20,8970,0.201,de 10 a  14 ans,femmes
+319,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,40,16920,0.254,de 10 a  14 ans,femmes
+320,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,10,3470,0.317,de 10 a  14 ans,femmes
+321,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,5090,1935770,0.263,de 10 a  14 ans,femmes
+322,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,250,96650,0.255,de 10 a  14 ans,tous sexes
+323,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,240,81820,0.297,de 10 a  14 ans,tous sexes
+324,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,260,85820,0.304,de 10 a  14 ans,tous sexes
+325,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,20,10670,0.188,de 10 a  14 ans,tous sexes
+326,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,390,148740,0.263,de 10 a  14 ans,tous sexes
+327,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,60,28490,0.225,de 10 a  14 ans,tous sexes
+328,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,30,13710,0.241,de 10 a  14 ans,tous sexes
+329,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,50,29380,0.184,de 10 a  14 ans,tous sexes
+330,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,90,30,8280,0.398,de 10 a  14 ans,tous sexes
+331,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,60,26560,0.211,de 10 a  14 ans,tous sexes
+332,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,260,94330,0.275,de 10 a  14 ans,tous sexes
+333,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,90,32650,0.266,de 10 a  14 ans,tous sexes
+334,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,10,40,17780,0.225,de 10 a  14 ans,tous sexes
+335,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,30,8950,0.324,de 10 a  14 ans,tous sexes
+336,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,170,64550,0.266,de 10 a  14 ans,tous sexes
+337,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,40,15760,0.26,de 10 a  14 ans,tous sexes
+338,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,50,20120,0.229,de 10 a  14 ans,tous sexes
+339,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,190,91310,0.204,de 10 a  14 ans,tous sexes
+340,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,130,52670,0.249,de 10 a  14 ans,tous sexes
+341,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,40,19180,0.214,de 10 a  14 ans,tous sexes
+342,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,90,34270,0.26,de 10 a  14 ans,tous sexes
+343,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,80,42240,0.189,de 10 a  14 ans,tous sexes
+344,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,150,68190,0.226,de 10 a  14 ans,tous sexes
+345,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,100,43910,0.235,de 10 a  14 ans,tous sexes
+346,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,50,19960,0.266,de 10 a  14 ans,tous sexes
+347,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,40,21950,0.182,de 10 a  14 ans,tous sexes
+348,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,50,24390,0.213,de 10 a  14 ans,tous sexes
+349,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,160,44870,0.345,de 10 a  14 ans,tous sexes
+350,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,20,8260,0.242,de 10 a  14 ans,tous sexes
+351,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,10,3970,0.328,de 10 a  14 ans,tous sexes
+352,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,30,11560,0.234,de 10 a  14 ans,tous sexes
+353,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,70,26860,0.261,de 10 a  14 ans,tous sexes
+354,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,20,8190,0.293,de 10 a  14 ans,tous sexes
+355,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,30,6860,0.364,de 10 a  14 ans,tous sexes
+356,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,50,16930,0.313,de 10 a  14 ans,tous sexes
+357,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,80,35970,0.225,de 10 a  14 ans,tous sexes
+358,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,310,116320,0.266,de 10 a  14 ans,tous sexes
+359,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,60,25450,0.22,de 10 a  14 ans,tous sexes
+360,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,120,48970,0.249,de 10 a  14 ans,tous sexes
+361,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,20,8490,0.247,de 10 a  14 ans,tous sexes
+362,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,160,57130,0.275,de 10 a  14 ans,tous sexes
+363,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,83,160,59060,0.269,de 10 a  14 ans,tous sexes
+364,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,30,7160,0.349,de 10 a  14 ans,tous sexes
+365,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,30,7910,0.329,de 10 a  14 ans,tous sexes
+366,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,50,15080,0.338,de 10 a  14 ans,tous sexes
+367,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,40,12120,0.297,de 15 a  19 ans,hommes
+368,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,40,10160,0.384,de 15 a  19 ans,hommes
+369,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,90,34120,0.255,de 15 a  19 ans,hommes
+370,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,10,4140,0.29,de 15 a  19 ans,hommes
+371,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,10,4140,0.29,de 15 a  19 ans,hommes
+372,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,180,43710,0.4,de 15 a  19 ans,hommes
+373,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,160,45430,0.361,de 15 a  19 ans,hommes
+374,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,160,39200,0.401,de 15 a  19 ans,hommes
+375,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,200,38340,0.511,de 15 a  19 ans,hommes
+376,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,50,17650,0.283,de 15 a  19 ans,hommes
+377,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,40,9350,0.374,de 15 a  19 ans,hommes
+378,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,20,7570,0.291,de 15 a  19 ans,hommes
+379,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,90,20,4220,0.403,de 15 a  19 ans,hommes
+380,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,280,78680,0.358,de 15 a  19 ans,hommes
+381,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,30,7760,0.322,de 15 a  19 ans,hommes
+382,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,160,36300,0.446,de 15 a  19 ans,hommes
+383,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,370,96350,0.383,de 15 a  19 ans,hommes
+384,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,60,16420,0.377,de 15 a  19 ans,hommes
+385,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,70,16310,0.447,de 15 a  19 ans,hommes
+386,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,20,5090,0.334,de 15 a  19 ans,hommes
+387,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,40,8040,0.473,de 15 a  19 ans,hommes
+388,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,30,10440,0.278,de 15 a  19 ans,hommes
+389,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,100,26450,0.378,de 15 a  19 ans,hommes
+390,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,30,9610,0.312,de 15 a  19 ans,hommes
+391,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,410,117720,0.349,de 15 a  19 ans,hommes
+392,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,60,17530,0.348,de 15 a  19 ans,hommes
+393,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,70,17780,0.388,de 15 a  19 ans,hommes
+394,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,30,6130,0.44,de 15 a  19 ans,hommes
+395,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,50,11900,0.386,de 15 a  19 ans,hommes
+396,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,40,9660,0.414,de 15 a  19 ans,hommes
+397,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,40,10430,0.422,de 15 a  19 ans,hommes
+398,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,130,38730,0.343,de 15 a  19 ans,hommes
+399,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,120,32100,0.38,de 15 a  19 ans,hommes
+400,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,2080,,de 15 a  19 ans,hommes
+401,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,220,55350,0.405,de 15 a  19 ans,hommes
+402,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,30,4660,0.6,de 15 a  19 ans,hommes
+403,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,20,3790,0.554,de 15 a  19 ans,hommes
+404,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,83,110,28760,0.386,de 15 a  19 ans,hommes
+405,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,40,7380,0.515,de 15 a  19 ans,hommes
+406,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,40,12650,0.332,de 15 a  19 ans,femmes
+407,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,170,45500,0.367,de 15 a  19 ans,femmes
+408,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,250,48040,0.516,de 15 a  19 ans,femmes
+409,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,150,38640,0.386,de 15 a  19 ans,femmes
+410,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,40,12760,0.337,de 15 a  19 ans,femmes
+411,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,50,17470,0.298,de 15 a  19 ans,femmes
+412,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,250,73060,0.342,de 15 a  19 ans,femmes
+413,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,40,14280,0.287,de 15 a  19 ans,femmes
+414,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,90,30,4020,0.696,de 15 a  19 ans,femmes
+415,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,270,77410,0.353,de 15 a  19 ans,femmes
+416,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,40,13870,0.274,de 15 a  19 ans,femmes
+417,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,60,15990,0.344,de 15 a  19 ans,femmes
+418,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,70,25480,0.286,de 15 a  19 ans,femmes
+419,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,680,183040,0.374,de 15 a  19 ans,femmes
+420,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,60,15990,0.388,de 15 a  19 ans,femmes
+421,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,60,18740,0.304,de 15 a  19 ans,femmes
+422,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,20,4980,0.382,de 15 a  19 ans,femmes
+423,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,100,24250,0.4,de 15 a  19 ans,femmes
+424,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,110,31080,0.36,de 15 a  19 ans,femmes
+425,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,60,21000,0.305,de 15 a  19 ans,femmes
+426,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,20,7770,0.296,de 15 a  19 ans,femmes
+427,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,130,43250,0.289,de 15 a  19 ans,femmes
+428,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,100,32950,0.316,de 15 a  19 ans,femmes
+429,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,0,2530,,de 15 a  19 ans,femmes
+430,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,140,44930,0.318,de 15 a  19 ans,femmes
+431,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,30,10990,0.237,de 15 a  19 ans,femmes
+432,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,480,160950,0.298,de 15 a  19 ans,femmes
+433,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,20,4920,0.325,de 15 a  19 ans,femmes
+434,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,120,32240,0.378,de 15 a  19 ans,femmes
+435,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,0,4310,,de 15 a  19 ans,femmes
+436,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,10,1880,0.746,de 15 a  19 ans,femmes
+437,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,30,7740,0.362,de 15 a  19 ans,femmes
+438,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,0,4020,,de 15 a  19 ans,femmes
+439,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,20,3600,0.416,de 15 a  19 ans,femmes
+440,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,130,38620,0.339,de 15 a  19 ans,femmes
+441,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,210,54040,0.385,de 15 a  19 ans,femmes
+442,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,30,9140,0.361,de 15 a  19 ans,femmes
+443,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,60,22470,0.271,de 15 a  19 ans,femmes
+444,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,270,58000,0.469,de 15 a  19 ans,femmes
+445,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,20,3420,0.672,de 15 a  19 ans,femmes
+446,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,6770,1912040,0.354,de 15 a  19 ans,femmes
+447,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,80,24770,0.315,de 15 a  19 ans,tous sexes
+448,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,70,20990,0.334,de 15 a  19 ans,tous sexes
+449,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,973,40,17410,0.247,de 15 a  19 ans,tous sexes
+450,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,200,68670,0.296,de 15 a  19 ans,tous sexes
+451,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,200,68670,0.296,de 15 a  19 ans,tous sexes
+452,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,330,93970,0.346,de 15 a  19 ans,tous sexes
+453,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,330,90920,0.364,de 15 a  19 ans,tous sexes
+454,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,500,95640,0.526,de 15 a  19 ans,tous sexes
+455,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,320,76330,0.423,de 15 a  19 ans,tous sexes
+456,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,70,15850,0.423,de 15 a  19 ans,tous sexes
+457,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,100,31950,0.322,de 15 a  19 ans,tous sexes
+458,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,40,13550,0.325,de 15 a  19 ans,tous sexes
+459,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,90,27840,0.33,de 15 a  19 ans,tous sexes
+460,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,650,158630,0.409,de 15 a  19 ans,tous sexes
+461,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,160,50720,0.315,de 15 a  19 ans,tous sexes
+462,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,380,91780,0.415,de 15 a  19 ans,tous sexes
+463,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,60,15810,0.386,de 15 a  19 ans,tous sexes
+464,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,280,87300,0.325,de 15 a  19 ans,tous sexes
+465,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,140,34130,0.407,de 15 a  19 ans,tous sexes
+466,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,120,40800,0.289,de 15 a  19 ans,tous sexes
+467,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,790,233710,0.339,de 15 a  19 ans,tous sexes
+468,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,160,44330,0.356,de 15 a  19 ans,tous sexes
+469,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,680,197240,0.344,de 15 a  19 ans,tous sexes
+470,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,70,17810,0.404,de 15 a  19 ans,tous sexes
+471,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,70,22370,0.295,de 15 a  19 ans,tous sexes
+472,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,60,24470,0.237,de 15 a  19 ans,tous sexes
+473,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,90,20380,0.422,de 15 a  19 ans,tous sexes
+474,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,50,14380,0.376,de 15 a  19 ans,tous sexes
+475,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,30,10140,0.286,de 15 a  19 ans,tous sexes
+476,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,1240,326210,0.38,de 15 a  19 ans,tous sexes
+477,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,30,7190,0.417,de 15 a  19 ans,tous sexes
+478,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,26,130,30760,0.413,de 15 a  19 ans,tous sexes
+479,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,70,17620,0.375,de 15 a  19 ans,tous sexes
+480,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,430,109390,0.395,de 15 a  19 ans,tous sexes
+481,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,150,45820,0.323,de 15 a  19 ans,tous sexes
+482,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,220,55350,0.397,de 15 a  19 ans,tous sexes
+483,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,140,32960,0.437,de 15 a  19 ans,tous sexes
+484,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,40,6950,0.633,de 15 a  19 ans,tous sexes
+485,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,90,14620,0.609,de 15 a  19 ans,tous sexes
+486,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,50,8080,0.607,de 20 a  24 ans,hommes
+487,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,120,25800,0.481,de 20 a  24 ans,hommes
+488,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,180,37920,0.485,de 20 a  24 ans,hommes
+489,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,300,44610,0.673,de 20 a  24 ans,hommes
+490,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,200,35510,0.552,de 20 a  24 ans,hommes
+491,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,1680,338240,0.498,de 20 a  24 ans,hommes
+492,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,20,5000,0.32,de 20 a  24 ans,hommes
+493,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,70,16940,0.425,de 20 a  24 ans,hommes
+494,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,310,64920,0.484,de 20 a  24 ans,hommes
+495,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,60,15050,0.419,de 20 a  24 ans,hommes
+496,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,60,15670,0.383,de 20 a  24 ans,hommes
+497,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,60,13050,0.422,de 20 a  24 ans,hommes
+498,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,30,7740,0.323,de 20 a  24 ans,hommes
+499,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,290,72560,0.401,de 20 a  24 ans,hommes
+500,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,30,6750,0.504,de 20 a  24 ans,hommes
+501,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,180,34300,0.522,de 20 a  24 ans,hommes
+502,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,430,78290,0.548,de 20 a  24 ans,hommes
+503,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,80,16260,0.498,de 20 a  24 ans,hommes
+504,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,100,20070,0.498,de 20 a  24 ans,hommes
+505,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,100,20200,0.485,de 20 a  24 ans,hommes
+506,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,40,9640,0.436,de 20 a  24 ans,hommes
+507,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,60,16910,0.343,de 20 a  24 ans,hommes
+508,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,60,20170,0.293,de 20 a  24 ans,hommes
+509,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,330,92920,0.355,de 20 a  24 ans,hommes
+510,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,50,16040,0.299,de 20 a  24 ans,hommes
+511,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,50,9050,0.508,de 20 a  24 ans,hommes
+512,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,30,6720,0.491,de 20 a  24 ans,hommes
+513,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,160,32610,0.491,de 20 a  24 ans,hommes
+514,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,0,3730,,de 20 a  24 ans,hommes
+515,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,30,5960,0.487,de 20 a  24 ans,hommes
+516,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,40,6740,0.593,de 20 a  24 ans,hommes
+517,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,20,3620,0.414,de 20 a  24 ans,hommes
+518,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,70,16340,0.398,de 20 a  24 ans,hommes
+519,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,20,5870,0.324,de 20 a  24 ans,hommes
+520,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,90,20820,0.432,de 20 a  24 ans,hommes
+521,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,300,57640,0.515,de 20 a  24 ans,hommes
+522,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,20,3890,0.514,de 20 a  24 ans,hommes
+523,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,120,27960,0.436,de 20 a  24 ans,hommes
+524,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,83,130,27750,0.479,de 20 a  24 ans,hommes
+525,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,670,135420,0.495,de 20 a  24 ans,hommes
+526,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,20,3730,0.429,de 20 a  24 ans,hommes
+527,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,60,10170,0.58,de 20 a  24 ans,femmes
+528,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,20,6690,0.269,de 20 a  24 ans,femmes
+529,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,240,28850,0.839,de 20 a  24 ans,femmes
+530,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,240,28850,0.839,de 20 a  24 ans,femmes
+531,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,190,44870,0.43,de 20 a  24 ans,femmes
+532,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,40,7330,0.478,de 20 a  24 ans,femmes
+533,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,70,16250,0.4,de 20 a  24 ans,femmes
+534,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,30,6610,0.454,de 20 a  24 ans,femmes
+535,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,20,5860,0.358,de 20 a  24 ans,femmes
+536,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,40,8090,0.544,de 20 a  24 ans,femmes
+537,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,310,75100,0.418,de 20 a  24 ans,femmes
+538,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,70,20610,0.349,de 20 a  24 ans,femmes
+539,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,30,7040,0.398,de 20 a  24 ans,femmes
+540,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,370,94710,0.391,de 20 a  24 ans,femmes
+541,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,70,14600,0.486,de 20 a  24 ans,femmes
+542,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,220,43710,0.51,de 20 a  24 ans,femmes
+543,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,90,16990,0.518,de 20 a  24 ans,femmes
+544,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,80,21120,0.365,de 20 a  24 ans,femmes
+545,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,130,26330,0.475,de 20 a  24 ans,femmes
+546,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,170,36320,0.468,de 20 a  24 ans,femmes
+547,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,40,7140,0.532,de 20 a  24 ans,femmes
+548,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,80,17640,0.459,de 20 a  24 ans,femmes
+549,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,440,111670,0.395,de 20 a  24 ans,femmes
+550,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,60,16110,0.372,de 20 a  24 ans,femmes
+551,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,20,5590,0.393,de 20 a  24 ans,femmes
+552,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,50,9360,0.556,de 20 a  24 ans,femmes
+553,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,200,51140,0.395,de 20 a  24 ans,femmes
+554,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,40,10400,0.404,de 20 a  24 ans,femmes
+555,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,80,17840,0.42,de 20 a  24 ans,femmes
+556,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,40,9580,0.459,de 20 a  24 ans,femmes
+557,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,100,20540,0.482,de 20 a  24 ans,femmes
+558,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,160,36720,0.436,de 20 a  24 ans,femmes
+559,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,10,3600,0.388,de 20 a  24 ans,femmes
+560,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,1730,,de 20 a  24 ans,femmes
+561,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,70,12450,0.53,de 20 a  24 ans,femmes
+562,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,30,6690,0.374,de 20 a  24 ans,femmes
+563,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,730,167880,0.435,de 20 a  24 ans,femmes
+564,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,80,17080,0.463,de 20 a  24 ans,femmes
+565,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,90,22030,0.422,de 20 a  24 ans,femmes
+566,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,20,5740,0.384,de 20 a  24 ans,femmes
+567,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,320,66500,0.481,de 20 a  24 ans,femmes
+568,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,40,7980,0.439,de 20 a  24 ans,femmes
+569,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,50,11610,0.448,de 20 a  24 ans,femmes
+570,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,1030,235110,0.438,de 20 a  24 ans,femmes
+571,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,10,4000,0.35,de 20 a  24 ans,femmes
+572,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,10,3310,0.333,de 20 a  24 ans,femmes
+573,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,180,30010,0.583,de 20 a  24 ans,femmes
+574,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,100,19030,0.541,de 20 a  24 ans,tous sexes
+575,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,100,19030,0.541,de 20 a  24 ans,tous sexes
+576,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,110,17250,0.655,de 20 a  24 ans,tous sexes
+577,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,110,17250,0.655,de 20 a  24 ans,tous sexes
+578,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,530,127750,0.416,de 20 a  24 ans,tous sexes
+579,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,110,21600,0.519,de 20 a  24 ans,tous sexes
+580,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,60,16040,0.387,de 20 a  24 ans,tous sexes
+581,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,45,190,36680,0.529,de 20 a  24 ans,tous sexes
+582,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,130,31730,0.413,de 20 a  24 ans,tous sexes
+583,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,790,182420,0.433,de 20 a  24 ans,tous sexes
+584,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,130,28210,0.461,de 20 a  24 ans,tous sexes
+585,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,200,45630,0.447,de 20 a  24 ans,tous sexes
+586,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,10,70,16500,0.443,de 20 a  24 ans,tous sexes
+587,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,320,70050,0.463,de 20 a  24 ans,tous sexes
+588,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,80,14270,0.54,de 20 a  24 ans,tous sexes
+589,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,80,19130,0.402,de 20 a  24 ans,tous sexes
+590,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,1380,306360,0.449,de 20 a  24 ans,tous sexes
+591,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,310,84840,0.37,de 20 a  24 ans,tous sexes
+592,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,53,70,17030,0.429,de 20 a  24 ans,tous sexes
+593,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,150,31470,0.467,de 20 a  24 ans,tous sexes
+594,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,120,30590,0.392,de 20 a  24 ans,tous sexes
+595,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,20,4690,0.384,de 20 a  24 ans,tous sexes
+596,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,90,20550,0.438,de 20 a  24 ans,tous sexes
+597,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,90,19130,0.465,de 20 a  24 ans,tous sexes
+598,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,1320,318660,0.414,de 20 a  24 ans,tous sexes
+599,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,40,8650,0.486,de 20 a  24 ans,tous sexes
+600,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,320,69340,0.462,de 20 a  24 ans,tous sexes
+601,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,120,24110,0.485,de 20 a  24 ans,tous sexes
+602,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,81,70,19670,0.366,de 20 a  24 ans,tous sexes
+603,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,70,13430,0.484,de 20 a  24 ans,tous sexes
+604,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,210,42910,0.482,de 20 a  24 ans,tous sexes
+605,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,580,124470,0.463,de 20 a  24 ans,tous sexes
+606,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,70,15650,0.435,de 20 a  24 ans,tous sexes
+607,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,110,23580,0.454,de 20 a  24 ans,tous sexes
+608,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,190,42690,0.443,de 20 a  24 ans,tous sexes
+609,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,210,23720,0.877,de 25 a  29 ans,hommes
+610,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,20,2220,0.765,de 25 a  29 ans,hommes
+611,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,20,2220,0.765,de 25 a  29 ans,hommes
+612,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,60,9810,0.581,de 25 a  29 ans,hommes
+613,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,30,4460,0.695,de 25 a  29 ans,hommes
+614,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,350,61240,0.575,de 25 a  29 ans,hommes
+615,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,90,14320,0.594,de 25 a  29 ans,hommes
+616,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,30,5900,0.491,de 25 a  29 ans,hommes
+617,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,20,4120,0.461,de 25 a  29 ans,hommes
+618,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,30,4970,0.523,de 25 a  29 ans,hommes
+619,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,60,11870,0.539,de 25 a  29 ans,hommes
+620,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,370,67720,0.546,de 25 a  29 ans,hommes
+621,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,70,13830,0.528,de 25 a  29 ans,hommes
+622,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,470,83210,0.559,de 25 a  29 ans,hommes
+623,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,100,12650,0.798,de 25 a  29 ans,hommes
+624,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,1110,163120,0.681,de 25 a  29 ans,hommes
+625,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,150,23830,0.621,de 25 a  29 ans,hommes
+626,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,120,19070,0.64,de 25 a  29 ans,hommes
+627,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,210,41760,0.508,de 25 a  29 ans,hommes
+628,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,480,98690,0.483,de 25 a  29 ans,hommes
+629,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,130,22180,0.564,de 25 a  29 ans,hommes
+630,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,160,31720,0.504,de 25 a  29 ans,hommes
+631,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,90,16990,0.512,de 25 a  29 ans,hommes
+632,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,430,83630,0.515,de 25 a  29 ans,hommes
+633,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,60,14020,0.442,de 25 a  29 ans,hommes
+634,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,210,47710,0.434,de 25 a  29 ans,hommes
+635,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,50,9340,0.503,de 25 a  29 ans,hommes
+636,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,50,7170,0.711,de 25 a  29 ans,hommes
+637,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,90,16940,0.531,de 25 a  29 ans,hommes
+638,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,50,8510,0.54,de 25 a  29 ans,hommes
+639,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,730,146290,0.5,de 25 a  29 ans,hommes
+640,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,110,17480,0.612,de 25 a  29 ans,hommes
+641,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,180,33190,0.527,de 25 a  29 ans,hommes
+642,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,20,5110,0.431,de 25 a  29 ans,hommes
+643,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,30,6140,0.521,de 25 a  29 ans,hommes
+644,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,20,3420,0.702,de 25 a  29 ans,hommes
+645,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,50,11370,0.44,de 25 a  29 ans,hommes
+646,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,130,22620,0.553,de 25 a  29 ans,hommes
+647,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,1230,221500,0.554,de 25 a  29 ans,hommes
+648,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,190,29000,0.655,de 25 a  29 ans,hommes
+649,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,20,3440,0.582,de 25 a  29 ans,hommes
+650,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,40,7440,0.511,de 25 a  29 ans,hommes
+651,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,80,9340,0.814,de 25 a  29 ans,femmes
+652,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,80,9340,0.814,de 25 a  29 ans,femmes
+653,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,973,60,6820,0.939,de 25 a  29 ans,femmes
+654,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,60,6820,0.939,de 25 a  29 ans,femmes
+655,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,480,29350,1.649,de 25 a  29 ans,femmes
+656,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,490,116150,0.42,de 25 a  29 ans,femmes
+657,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,280,45950,0.614,de 25 a  29 ans,femmes
+658,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,340,51590,0.661,de 25 a  29 ans,femmes
+659,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,60,7800,0.782,de 25 a  29 ans,femmes
+660,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,45,140,19110,0.738,de 25 a  29 ans,femmes
+661,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,999,450,66540,0.669,de 25 a  29 ans,femmes
+662,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,90,15200,0.579,de 25 a  29 ans,femmes
+663,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,440,70910,0.625,de 25 a  29 ans,femmes
+664,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,70,12070,0.588,de 25 a  29 ans,femmes
+665,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,40,6080,0.724,de 25 a  29 ans,femmes
+666,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,180,23400,0.765,de 25 a  29 ans,femmes
+667,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,100,16010,0.606,de 25 a  29 ans,femmes
+668,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,30,3960,0.758,de 25 a  29 ans,femmes
+669,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,150,20480,0.708,de 25 a  29 ans,femmes
+670,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,60,8670,0.703,de 25 a  29 ans,femmes
+671,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,250,44470,0.551,de 25 a  29 ans,femmes
+672,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,110,14430,0.769,de 25 a  29 ans,femmes
+673,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,110,22570,0.496,de 25 a  29 ans,femmes
+674,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,70,14990,0.467,de 25 a  29 ans,femmes
+675,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,10,2150,0.605,de 25 a  29 ans,femmes
+676,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,50,7790,0.668,de 25 a  29 ans,femmes
+677,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,79,60,8670,0.646,de 25 a  29 ans,femmes
+678,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,60,11630,0.473,de 25 a  29 ans,femmes
+679,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,890,156290,0.568,de 25 a  29 ans,femmes
+680,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,30,5800,0.534,de 25 a  29 ans,femmes
+681,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,150,19100,0.785,de 25 a  29 ans,femmes
+682,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,30,3870,0.697,de 25 a  29 ans,femmes
+683,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,230,37280,0.606,de 25 a  29 ans,femmes
+684,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,0,1560,,de 25 a  29 ans,femmes
+685,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,60,11740,0.52,de 25 a  29 ans,femmes
+686,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,40,6140,0.602,de 25 a  29 ans,femmes
+687,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,230,37030,0.621,de 25 a  29 ans,femmes
+688,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,140,20300,0.704,de 25 a  29 ans,femmes
+689,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,20,5200,0.404,de 25 a  29 ans,femmes
+690,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,450,71750,0.631,de 25 a  29 ans,femmes
+691,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,1400,238280,0.586,de 25 a  29 ans,femmes
+692,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,490,65420,0.747,de 25 a  29 ans,femmes
+693,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,20,3770,0.637,de 25 a  29 ans,femmes
+694,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,120,15430,0.79,de 25 a  29 ans,tous sexes
+695,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,90,11180,0.796,de 25 a  29 ans,tous sexes
+696,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,40,6640,0.618,de 25 a  29 ans,tous sexes
+697,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,630,95800,0.652,de 25 a  29 ans,tous sexes
+698,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,5270,869700,0.606,de 25 a  29 ans,tous sexes
+699,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,140,20470,0.699,de 25 a  29 ans,tous sexes
+700,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,70,12100,0.57,de 25 a  29 ans,tous sexes
+701,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,810,138630,0.586,de 25 a  29 ans,tous sexes
+702,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,120,23650,0.503,de 25 a  29 ans,tous sexes
+703,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,70,12170,0.583,de 25 a  29 ans,tous sexes
+704,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,1050,172550,0.606,de 25 a  29 ans,tous sexes
+705,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,210,26260,0.804,de 25 a  29 ans,tous sexes
+706,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,1120,158470,0.707,de 25 a  29 ans,tous sexes
+707,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,320,44460,0.709,de 25 a  29 ans,tous sexes
+708,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,2400,338060,0.71,de 25 a  29 ans,tous sexes
+709,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,10,100,15400,0.649,de 25 a  29 ans,tous sexes
+710,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,210,32590,0.657,de 25 a  29 ans,tous sexes
+711,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,1870,293760,0.636,de 25 a  29 ans,tous sexes
+712,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,460,86240,0.53,de 25 a  29 ans,tous sexes
+713,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,150,30600,0.503,de 25 a  29 ans,tous sexes
+714,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,1100,203210,0.543,de 25 a  29 ans,tous sexes
+715,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,60,10260,0.536,de 25 a  29 ans,tous sexes
+716,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,90,16490,0.564,de 25 a  29 ans,tous sexes
+717,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,260,36580,0.703,de 25 a  29 ans,tous sexes
+718,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,580,98420,0.589,de 25 a  29 ans,tous sexes
+719,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,60,7630,0.786,de 25 a  29 ans,tous sexes
+720,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,400,70460,0.569,de 25 a  29 ans,tous sexes
+721,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,30,6880,0.48,de 25 a  29 ans,tous sexes
+722,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,20,3110,0.707,de 25 a  29 ans,tous sexes
+723,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,81,90,17460,0.538,de 25 a  29 ans,tous sexes
+724,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,1940,321000,0.603,de 25 a  29 ans,tous sexes
+725,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,410,72570,0.571,de 25 a  29 ans,tous sexes
+726,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,810,136700,0.589,de 25 a  29 ans,tous sexes
+727,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,120,23320,0.532,de 25 a  29 ans,tous sexes
+728,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,50,7420,0.606,de 25 a  29 ans,tous sexes
+729,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,30,6670,0.375,de 25 a  29 ans,tous sexes
+730,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,50,7310,0.711,de 25 a  29 ans,tous sexes
+731,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,50,8220,0.62,de 25 a  29 ans,tous sexes
+732,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,100,15530,0.663,de 25 a  29 ans,tous sexes
+733,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,23500,3815060,0.616,de 25 a  29 ans,tous sexes
+734,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,110,7250,1.546,de 30 a  34 ans,hommes
+735,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,100,7180,1.352,de 30 a  34 ans,hommes
+736,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,100,7180,1.352,de 30 a  34 ans,hommes
+737,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,420,25710,1.626,de 30 a  34 ans,hommes
+738,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,590,97270,0.605,de 30 a  34 ans,hommes
+739,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,410,43110,0.94,de 30 a  34 ans,hommes
+740,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,91,420,41090,1.015,de 30 a  34 ans,hommes
+741,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,700,56310,1.239,de 30 a  34 ans,hommes
+742,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,110,16730,0.628,de 30 a  34 ans,hommes
+743,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,45,200,18260,1.073,de 30 a  34 ans,hommes
+744,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,30,5620,0.587,de 30 a  34 ans,hommes
+745,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,100,12920,0.805,de 30 a  34 ans,hommes
+746,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,560,71490,0.788,de 30 a  34 ans,hommes
+747,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,150,18510,0.832,de 30 a  34 ans,hommes
+748,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,320,35840,0.884,de 30 a  34 ans,hommes
+749,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,59,770,80420,0.956,de 30 a  34 ans,hommes
+750,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,62,420,42800,0.97,de 30 a  34 ans,hommes
+751,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,140,15870,0.901,de 30 a  34 ans,hommes
+752,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,270,25240,1.078,de 30 a  34 ans,hommes
+753,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,60,7180,0.864,de 30 a  34 ans,hommes
+754,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,120,13860,0.83,de 30 a  34 ans,hommes
+755,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,100,13930,0.711,de 30 a  34 ans,hommes
+756,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,220,32490,0.689,de 30 a  34 ans,hommes
+757,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,40,5400,0.704,de 30 a  34 ans,hommes
+758,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,23,20,2290,0.83,de 30 a  34 ans,hommes
+759,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,70,7880,0.825,de 30 a  34 ans,hommes
+760,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,60,8780,0.729,de 30 a  34 ans,hommes
+761,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,40,4110,0.973,de 30 a  34 ans,hommes
+762,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,250,34780,0.727,de 30 a  34 ans,hommes
+763,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,280,37500,0.739,de 30 a  34 ans,hommes
+764,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,180,19980,0.886,de 30 a  34 ans,hommes
+765,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,490,65130,0.749,de 30 a  34 ans,hommes
+766,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,4,30,4030,0.645,de 30 a  34 ans,hommes
+767,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,5,30,3660,0.711,de 30 a  34 ans,hommes
+768,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,120,15950,0.727,de 30 a  34 ans,hommes
+769,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,1170,149370,0.781,de 30 a  34 ans,hommes
+770,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,30,4260,0.635,de 30 a  34 ans,hommes
+771,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,16350,1940400,0.843,de 30 a  34 ans,hommes
+772,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,200,10780,1.865,de 30 a  34 ans,femmes
+773,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,200,10780,1.865,de 30 a  34 ans,femmes
+774,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,160,10500,1.486,de 30 a  34 ans,femmes
+775,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,160,10500,1.486,de 30 a  34 ans,femmes
+776,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,120,7490,1.656,de 30 a  34 ans,femmes
+777,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,650,101250,0.642,de 30 a  34 ans,femmes
+778,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,550,50270,1.086,de 30 a  34 ans,femmes
+779,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,570,47680,1.187,de 30 a  34 ans,femmes
+780,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,4850,480320,1.01,de 30 a  34 ans,femmes
+781,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,140,18650,0.724,de 30 a  34 ans,femmes
+782,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,50,4590,1.003,de 30 a  34 ans,femmes
+783,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,70,9020,0.821,de 30 a  34 ans,femmes
+784,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,650,77340,0.846,de 30 a  34 ans,femmes
+785,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,190,15350,1.218,de 30 a  34 ans,femmes
+786,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,160,21150,0.761,de 30 a  34 ans,femmes
+787,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,50,4770,1.007,de 30 a  34 ans,femmes
+788,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,67,350,37640,0.919,de 30 a  34 ans,femmes
+789,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,1570,161430,0.969,de 30 a  34 ans,femmes
+790,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,130,15470,0.847,de 30 a  34 ans,femmes
+791,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,150,18030,0.848,de 30 a  34 ans,femmes
+792,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,29,170,24830,0.693,de 30 a  34 ans,femmes
+793,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,450,56080,0.793,de 30 a  34 ans,femmes
+794,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,47,80,8650,0.936,de 30 a  34 ans,femmes
+795,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,120,12000,0.975,de 30 a  34 ans,femmes
+796,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,100,9710,0.988,de 30 a  34 ans,femmes
+797,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,999,1410,171970,0.819,de 30 a  34 ans,femmes
+798,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,200,21830,0.903,de 30 a  34 ans,femmes
+799,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,70,5920,1.148,de 30 a  34 ans,femmes
+800,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,110,13720,0.816,de 30 a  34 ans,femmes
+801,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,81,80,10240,0.732,de 30 a  34 ans,femmes
+802,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,50,7290,0.659,de 30 a  34 ans,femmes
+803,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,15,20,3310,0.574,de 30 a  34 ans,femmes
+804,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,30,5810,0.586,de 30 a  34 ans,femmes
+805,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,160,19250,0.805,de 30 a  34 ans,femmes
+806,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,100,13580,0.721,de 30 a  34 ans,femmes
+807,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,170,29500,0.58,de 30 a  34 ans,femmes
+808,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,2110,257170,0.822,de 30 a  34 ans,femmes
+809,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,84,150,17800,0.843,de 30 a  34 ans,femmes
+810,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,1460,164410,0.89,de 30 a  34 ans,femmes
+811,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,90,9580,0.96,de 30 a  34 ans,femmes
+812,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,20140,2140210,0.941,de 30 a  34 ans,femmes
+813,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,310,18020,1.737,de 30 a  34 ans,tous sexes
+814,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,310,18020,1.737,de 30 a  34 ans,tous sexes
+815,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,250,17680,1.431,de 30 a  34 ans,tous sexes
+816,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,1150,57660,2.0,de 30 a  34 ans,tous sexes
+817,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,100,7610,1.314,de 30 a  34 ans,tous sexes
+818,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,100,7610,1.314,de 30 a  34 ans,tous sexes
+819,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,1240,198520,0.624,de 30 a  34 ans,tous sexes
+820,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,93,1620,121100,1.338,de 30 a  34 ans,tous sexes
+821,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,1020,88650,1.151,de 30 a  34 ans,tous sexes
+822,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,999,8700,907510,0.959,de 30 a  34 ans,tous sexes
+823,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,18,140,15040,0.918,de 30 a  34 ans,tous sexes
+824,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,240,23360,1.01,de 30 a  34 ans,tous sexes
+825,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,240,30720,0.788,de 30 a  34 ans,tous sexes
+826,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,90,8810,1.011,de 30 a  34 ans,tous sexes
+827,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,140,17030,0.822,de 30 a  34 ans,tous sexes
+828,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,200,25450,0.79,de 30 a  34 ans,tous sexes
+829,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,340,29530,1.141,de 30 a  34 ans,tous sexes
+830,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,450,50670,0.886,de 30 a  34 ans,tous sexes
+831,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,3730,366000,1.018,de 30 a  34 ans,tous sexes
+832,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,390,33610,1.172,de 30 a  34 ans,tous sexes
+833,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,60,8680,0.68,de 30 a  34 ans,tous sexes
+834,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,54,320,40700,0.796,de 30 a  34 ans,tous sexes
+835,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,57,530,52790,1.0,de 30 a  34 ans,tous sexes
+836,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,68,430,43700,0.982,de 30 a  34 ans,tous sexes
+837,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,150,14720,1.012,de 30 a  34 ans,tous sexes
+838,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,280,34700,0.792,de 30 a  34 ans,tous sexes
+839,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,210,29000,0.724,de 30 a  34 ans,tous sexes
+840,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,260,38050,0.673,de 30 a  34 ans,tous sexes
+841,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,190,23050,0.842,de 30 a  34 ans,tous sexes
+842,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,11,160,18690,0.878,de 30 a  34 ans,tous sexes
+843,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,810,98220,0.829,de 30 a  34 ans,tous sexes
+905,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,190,15800,1.171,de 35 a  39 ans,femmes
+844,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,510,73520,0.695,de 30 a  34 ans,tous sexes
+845,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,70,7620,0.88,de 30 a  34 ans,tous sexes
+846,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,20,3480,0.689,de 30 a  34 ans,tous sexes
+847,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,66,210,25700,0.798,de 30 a  34 ans,tous sexes
+848,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,420,41780,1.008,de 30 a  34 ans,tous sexes
+849,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,43,80,11270,0.666,de 30 a  34 ans,tous sexes
+850,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,320,37450,0.852,de 30 a  34 ans,tous sexes
+851,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,1100,135830,0.807,de 30 a  34 ans,tous sexes
+852,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,13,1290,135010,0.956,de 30 a  34 ans,tous sexes
+853,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,6,530,67320,0.789,de 30 a  34 ans,tous sexes
+854,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,83,430,61680,0.704,de 30 a  34 ans,tous sexes
+855,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,70,8950,0.726,de 30 a  34 ans,tous sexes
+856,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,200,7670,2.596,de 35 a  39 ans,hommes
+857,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,999,200,7670,2.596,de 35 a  39 ans,hommes
+858,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,180,7230,2.434,de 35 a  39 ans,hommes
+859,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,140,5100,2.824,de 35 a  39 ans,hommes
+860,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,36,70,4850,1.484,de 35 a  39 ans,hommes
+861,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,220,17180,1.252,de 35 a  39 ans,hommes
+862,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,130,8110,1.541,de 35 a  39 ans,hommes
+863,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,21,160,14740,1.079,de 35 a  39 ans,hommes
+864,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,70,4700,1.553,de 35 a  39 ans,hommes
+865,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,110,8680,1.233,de 35 a  39 ans,hommes
+866,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,90,50,3980,1.331,de 35 a  39 ans,hommes
+867,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,930,75420,1.232,de 35 a  39 ans,hommes
+868,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,270,19250,1.398,de 35 a  39 ans,hommes
+869,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,76,540,36660,1.47,de 35 a  39 ans,hommes
+870,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,2,250,14750,1.674,de 35 a  39 ans,hommes
+871,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,360,24300,1.498,de 35 a  39 ans,hommes
+872,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,240,16120,1.495,de 35 a  39 ans,hommes
+873,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,2780,180250,1.541,de 35 a  39 ans,hommes
+874,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,250,16370,1.509,de 35 a  39 ans,hommes
+875,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,999,2220,150940,1.469,de 35 a  39 ans,hommes
+876,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,500,46300,1.08,de 35 a  39 ans,hommes
+877,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,49,240,23100,1.056,de 35 a  39 ans,hommes
+878,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,180,14690,1.226,de 35 a  39 ans,hommes
+879,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,35,320,32750,0.977,de 35 a  39 ans,hommes
+880,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,190,20260,0.928,de 35 a  39 ans,hommes
+881,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,910,93260,0.97,de 35 a  39 ans,hommes
+882,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,190,16990,1.095,de 35 a  39 ans,hommes
+883,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,33,560,51880,1.081,de 35 a  39 ans,hommes
+884,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,40,150,11630,1.281,de 35 a  39 ans,hommes
+885,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,130,11280,1.17,de 35 a  39 ans,hommes
+886,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,87,130,9320,1.428,de 35 a  39 ans,hommes
+887,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,550,46930,1.174,de 35 a  39 ans,hommes
+888,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,2020,168410,1.198,de 35 a  39 ans,hommes
+889,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,110,7890,1.332,de 35 a  39 ans,hommes
+890,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,38,460,38560,1.201,de 35 a  39 ans,hommes
+891,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,820,61700,1.334,de 35 a  39 ans,hommes
+892,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,120,13080,0.948,de 35 a  39 ans,hommes
+893,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,83,360,30730,1.155,de 35 a  39 ans,hommes
+894,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,2070,152150,1.362,de 35 a  39 ans,hommes
+895,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,999,100,8970,1.093,de 35 a  39 ans,hommes
+896,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,320,12020,2.62,de 35 a  39 ans,femmes
+897,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,230,10870,2.153,de 35 a  39 ans,femmes
+898,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,220,7800,2.845,de 35 a  39 ans,femmes
+899,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,976,140,5130,2.671,de 35 a  39 ans,femmes
+900,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,140,5130,2.671,de 35 a  39 ans,femmes
+901,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,92,750,62820,1.187,de 35 a  39 ans,femmes
+902,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,840,47430,1.777,de 35 a  39 ans,femmes
+903,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,210,13490,1.587,de 35 a  39 ans,femmes
+904,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,41,120,8960,1.362,de 35 a  39 ans,femmes
+906,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,14,230,21060,1.092,de 35 a  39 ans,femmes
+907,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,150,13210,1.128,de 35 a  39 ans,femmes
+908,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,240,16940,1.405,de 35 a  39 ans,femmes
+909,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,70,4940,1.335,de 35 a  39 ans,femmes
+910,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,88,100,10060,1.004,de 35 a  39 ans,femmes
+911,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,220,16250,1.329,de 35 a  39 ans,femmes
+912,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,120,16340,0.716,de 35 a  39 ans,femmes
+913,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,56,190,21920,0.844,de 35 a  39 ans,femmes
+914,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,16,120,9530,1.206,de 35 a  39 ans,femmes
+915,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,100,6320,1.597,de 35 a  39 ans,femmes
+916,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,160,20890,0.78,de 35 a  39 ans,femmes
+917,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,300,23500,1.277,de 35 a  39 ans,femmes
+918,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,560,49320,1.129,de 35 a  39 ans,femmes
+919,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,32,80,5010,1.577,de 35 a  39 ans,femmes
+920,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,34,390,38260,1.022,de 35 a  39 ans,femmes
+921,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,48,20,2030,1.135,de 35 a  39 ans,femmes
+922,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,65,90,6170,1.378,de 35 a  39 ans,femmes
+923,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,81,130,11230,1.131,de 35 a  39 ans,femmes
+924,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,50,4310,1.182,de 35 a  39 ans,femmes
+925,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,999,2110,184650,1.145,de 35 a  39 ans,femmes
+926,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,230,20880,1.102,de 35 a  39 ans,femmes
+927,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,3,120,8680,1.429,de 35 a  39 ans,femmes
+928,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,63,240,19580,1.2,de 35 a  39 ans,femmes
+929,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,69,860,67230,1.272,de 35 a  39 ans,femmes
+930,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,999,2970,260620,1.138,de 35 a  39 ans,femmes
+931,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,2120,167130,1.268,de 35 a  39 ans,femmes
+932,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,94,,60,4800,1.146,de 35 a  39 ans,femmes
+933,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,99,999,28700,2159200,1.329,de 35 a  39 ans,femmes
+934,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,510,19690,2.611,de 35 a  39 ans,tous sexes
+935,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,972,410,18100,2.265,de 35 a  39 ans,tous sexes
+936,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,410,18100,2.265,de 35 a  39 ans,tous sexes
+937,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,3,999,370,12900,2.837,de 35 a  39 ans,tous sexes
+938,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,1910,58740,3.248,de 35 a  39 ans,tous sexes
+939,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,220,8110,2.676,de 35 a  39 ans,tous sexes
+940,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,77,1510,95680,1.579,de 35 a  39 ans,tous sexes
+941,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,1440,96840,1.488,de 35 a  39 ans,tous sexes
+942,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,1660,89720,1.848,de 35 a  39 ans,tous sexes
+943,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,360,25260,1.429,de 35 a  39 ans,tous sexes
+944,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,37,410,36040,1.149,de 35 a  39 ans,tous sexes
+945,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,70,170,12920,1.308,de 35 a  39 ans,tous sexes
+946,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,89,220,18280,1.203,de 35 a  39 ans,tous sexes
+947,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,1870,156310,1.197,de 35 a  39 ans,tous sexes
+948,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,60,790,51780,1.526,de 35 a  39 ans,tous sexes
+949,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,80,480,33060,1.449,de 35 a  39 ans,tous sexes
+950,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,10,260,17020,1.51,de 35 a  39 ans,tous sexes
+951,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,550,33770,1.617,de 35 a  39 ans,tous sexes
+952,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,55,140,9750,1.436,de 35 a  39 ans,tous sexes
+953,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,8,240,14910,1.616,de 35 a  39 ans,tous sexes
+954,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,1010,95630,1.053,de 35 a  39 ans,tous sexes
+955,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,85,390,39070,0.996,de 35 a  39 ans,tous sexes
+956,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,22,280,31350,0.88,de 35 a  39 ans,tous sexes
+957,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,53,999,1770,193620,0.913,de 35 a  39 ans,tous sexes
+958,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,17,370,35620,1.039,de 35 a  39 ans,tous sexes
+959,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,19,160,12090,1.34,de 35 a  39 ans,tous sexes
+960,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,24,260,20030,1.283,de 35 a  39 ans,tous sexes
+961,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,64,350,40060,0.884,de 35 a  39 ans,tous sexes
+962,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,75,86,310,23920,1.275,de 35 a  39 ans,tous sexes
+963,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,12,140,14350,0.948,de 35 a  39 ans,tous sexes
+964,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,30,560,44090,1.261,de 35 a  39 ans,tous sexes
+1026,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,25,290,16560,1.751,de 40 a  44 ans,femmes
+965,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,31,1110,96250,1.151,de 35 a  39 ans,tous sexes
+966,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,46,70,8340,0.863,de 35 a  39 ans,tous sexes
+967,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,82,180,15350,1.153,de 35 a  39 ans,tous sexes
+968,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,76,9,90,8150,1.153,de 35 a  39 ans,tous sexes
+969,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,1,460,39490,1.17,de 35 a  39 ans,tous sexes
+970,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,26,320,31480,1.023,de 35 a  39 ans,tous sexes
+971,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,42,550,44250,1.247,de 35 a  39 ans,tous sexes
+972,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,7,210,18120,1.164,de 35 a  39 ans,tous sexes
+973,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,73,260,27140,0.954,de 35 a  39 ans,tous sexes
+974,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,84,74,500,55910,0.889,de 35 a  39 ans,tous sexes
+975,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,93,999,4190,319280,1.313,de 35 a  39 ans,tous sexes
+976,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,1,971,310,8100,3.875,de 40 a  44 ans,hommes
+977,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,2,999,260,7440,3.466,de 40 a  44 ans,hommes
+978,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,974,1220,26640,4.562,de 40 a  44 ans,hommes
+979,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,4,999,1220,26640,4.562,de 40 a  44 ans,hommes
+980,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,6,999,180,3360,5.323,de 40 a  44 ans,hommes
+981,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,75,1330,68960,1.929,de 40 a  44 ans,hommes
+982,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,78,1190,47030,2.535,de 40 a  44 ans,hommes
+983,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,94,1310,44460,2.935,de 40 a  44 ans,hommes
+984,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,11,95,1510,41770,3.603,de 40 a  44 ans,hommes
+985,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,24,28,330,12090,2.738,de 40 a  44 ans,hommes
+986,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,39,140,6820,2.01,de 40 a  44 ans,hommes
+987,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,58,130,4630,2.854,de 40 a  44 ans,hommes
+988,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,71,330,13710,2.4,de 40 a  44 ans,hommes
+989,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,27,999,1710,74250,2.302,de 40 a  44 ans,hommes
+990,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,27,450,17090,2.633,de 40 a  44 ans,hommes
+991,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,50,250,12460,1.999,de 40 a  44 ans,hommes
+992,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,61,160,6660,2.357,de 40 a  44 ans,hommes
+993,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,28,999,2040,89550,2.274,de 40 a  44 ans,hommes
+994,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,32,999,4810,171930,2.795,de 40 a  44 ans,hommes
+995,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,51,390,15580,2.522,de 40 a  44 ans,hommes
+996,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,44,52,100,4240,2.314,de 40 a  44 ans,hommes
+997,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,44,730,45470,1.606,de 40 a  44 ans,hommes
+998,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,72,320,14870,2.159,de 40 a  44 ans,hommes
+999,2020,Diabete,Diabete,Diabete,DIA_CAT_CAT,52,999,1980,111390,1.781,de 40 a  44 ans,hommes

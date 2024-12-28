@@ -1,0 +1,198 @@
+# # Supabase
+# import json
+# from urllib import response
+# from supabase import create_client, Client
+
+# # API
+# import api
+
+# # Variable environnement
+# from dotenv import load_dotenv
+# import os
+
+# # Bases de données
+# import database
+
+# # Charger les variables d'environnement
+# load_dotenv('.env.config')
+
+
+# # Eviter d'executer le code si manquante
+# if not database.supabase_url or not database.supabase_key:
+#     raise ValueError("Les variables d'environnement 'SUPABASE_URL' ou 'SUPABASE_KEY' sont manquantes.")
+
+# # Création du client Supabase
+# supabase: Client = create_client(database.supabase_url, database.supabase_key)
+
+# # Tables
+# tables = [
+#     "qualite_air",
+#     "maladies_chroniques_diabete",
+#     "maladies_chroniques_respiratoires",
+#     "maladies_chroniques_cardiologiques",
+#     "donnees_patient",
+#     "alimentation",
+# ]
+
+# # Sélection d'une table par index
+# table = tables[0] 
+
+# # # ---------------- SELECT
+# # response = supabase.table(table).select("*").execute()
+# # print(response)
+
+# # # ---------------- DELETE
+# # response = supabase.table(table).delete().neq("id_qualite_air", -1).execute()
+# # print("Tout le contenu de la table 'qualite_air' a été supprimé avec succès.")
+
+# # ---------------- INSERT
+# # # Fonction utilitaire pour simplifier la logique des valeurs par défaut
+# # def get_value(row, column, default):
+# #     if column in row:
+# #         return row[column] if api.pd.notnull(row[column]) else default
+# #     else:
+# #         print(f"Colonne '{column}' non trouvée dans la ligne : {row}")
+# #         return default
+
+
+# # # Insertion des données dans Supabase
+# # # Nombre de lignes par lot pour l'insertion
+# # # batch_size = 100
+
+# # # Diviser le DataFrame en lots
+# # # Tentative d'insertion dans Supabase avec une gestion plus détaillée des réponses
+# # for _, row in api.daily_dataframe.iterrows():
+# #     data_to_insert = {
+# #         "date": row["date"].isoformat() if api.pd.notnull(row["date"]) else None,
+# #         "pm10": get_value(row, "pm10", 0),
+# #         "pm2_5": get_value(row, "pm2_5", 0),
+# #         "carbon_monoxide": get_value(row, "carbon_monoxide", 0),
+# #         "nitrogen_dioxide": get_value(row, "nitrogen_dioxide", 0),
+# #         "sulphur_dioxide": get_value(row, "sulphur_dioxide", 0),
+# #         "ozone": get_value(row, "ozone", 0),
+# #         "grass_pollen": get_value(row, "grass_pollen", 0),
+# #         "air_quality": get_value(row, "air_quality", "Inconnu"),
+# #     }
+
+# #     try:
+# #         # Insertion dans Supabase
+# #         response = supabase.table(table).insert(data_to_insert).execute()
+
+# #         # Vérification du code de statut
+# #         # if response.status_code == 200:  # Si la réponse est OK
+# #         #     print(f"Insertion réussie pour {row['date']}")
+# #         # else:  # Si le code de statut n'est pas 200, on affiche les détails
+# #         #     print(f"Erreur d'insertion pour {row['date']}: {response}")
+        
+# #     except Exception as e:
+# #         print(f"Erreur lors de l'insertion de la ligne {row['date']}: {e}")
+
+
+
+
+# # -------------- AZURE
+
+# cursor = database.conn.cursor()
+# # # Requête d'insertion
+# insert_query = '''
+#     INSERT INTO ''' + table + '''(date, pm10, pm2_5, carbon_monoxide, nitrogen_dioxide, sulphur_dioxide, ozone, grass_pollen, air_quality)
+#     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+# '''
+
+# # Vérifier les colonnes disponibles dans le DataFrame
+# print("Colonnes disponibles dans le DataFrame :", api.daily_dataframe.columns)
+
+# # Fonction utilitaire pour simplifier la logique des valeurs par défaut
+# def get_value(row, column, default):
+#     return row[column] if api.pd.notnull(row[column]) else default
+
+# # Insertion des données dans Azure SQL Database
+# for _, row in api.daily_dataframe.iterrows():  # Utilisez daily_dataframe, pas hourly_dataframe
+#     data_to_insert = (
+#         row["date"].isoformat() if api.pd.notnull(row["date"]) else None,
+#         get_value(row, "pm10", 0),
+#         get_value(row, "pm2_5", 0),
+#         get_value(row, "carbon_monoxide", 0),
+#         get_value(row, "nitrogen_dioxide", 0),
+#         get_value(row, "sulphur_dioxide", 0),
+#         get_value(row, "ozone", 0),
+#         get_value(row, "grass_pollen", 0),
+#         get_value(row, "air_quality", "Bonne")
+#     )
+#     # print(data_to_insert)
+#     try:
+#         cursor.execute(insert_query, *data_to_insert)
+#     except Exception as e:
+#         print(f"Erreur lors de l'insertion de la ligne {row['date']}: {e}")
+
+# # Valider la transaction
+# database.conn.commit()
+# print("Insertion des données quotidiennes dans Azure terminée.")
+
+# # ------------ DELETE ------------
+# # delete_query = '''
+# #     DELETE FROM ''' + table + '''
+# # '''
+# # try:
+# #     cursor.execute(delete_query)
+# # except Exception as e:
+# #     print(f"Erreur lors de l'insertion de la ligne {row['date']}: {e}")
+
+# # # Valider la transaction
+# # database.conn.commit()
+# # print("Suppression des données dans Azure terminée.")
+
+# # # ------------ SELECT ------------
+# # Exécution de la requête
+# # response = cursor.execute("SELECT * FROM " + table)
+
+# # Parcours des résultats et conversion des types
+# # for r in response:
+# #     # Conversion des types
+# #     date = r[1]
+# #     pm10 = float(r[2])
+# #     pm2_5 = float(r[3])
+# #     carbon_monoxide = float(r[4])
+# #     nitrogen_dioxide = float(r[5])
+# #     sulphur_dioxide = float(r[6])
+# #     ozone = float(r[7])
+# #     air_quality = r[8].strip()  # Suppression des espaces dans air_quality
+# #     grass_pollen = float(r[9])
+
+# #     # Affichage des résultats avec les types convertis
+# #     print(f"{date}, {pm10}, {pm2_5}, {carbon_monoxide}, {nitrogen_dioxide}, {sulphur_dioxide}, {ozone}, {air_quality}, {grass_pollen}")
+
+# # Validation de la transaction
+# database.conn.commit()
+
+# # Fermeture de la database.connexion
+# database.conn.close()
+
+
+
+# # ---------------- CSV
+# # # Sauvegarde des données dans un fichier CSV
+# # api.hourly_dataframe.to_csv("CSV/air_data_quality_with_pollen_daily.csv", index=False)
+# # print("Les données quotidiennes ont été sauvegardées dans 'CSV/air_data_quality_with_pollen_daily.csv'.")
+
+
+
+
+# # ##################### RESET #####################
+# # # Azure
+# # '''
+# # DBCC CHECKIDENT ('qualite_air', RESEED, 0);
+# # sp_help 'qualite_air';
+
+# # ALTER TABLE qualite_air DROP COLUMN id_qualite_air;
+
+# # ALTER TABLE qualite_air ADD id_qualite_air INT IDENTITY(1,1) PRIMARY KEY;
+
+# # CREATE SEQUENCE qualite_air_seq
+# #     START WITH 1
+# #     INCREMENT BY 1;
+
+
+# # '''
+# # # Supabase
+# # # ALTER SEQUENCE qualite_air_id_qualite_air_seq RESTART WITH 1;
