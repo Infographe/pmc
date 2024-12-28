@@ -1,0 +1,1001 @@
+id_cardiologique,annee,patho_niv1,patho_niv2,patho_niv3,top,region,dept,ntop,npop,prevalence,libelle_classe_age,libelle_sexe
+1,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,971,400,14820,2.719,de 75 a  79 ans,tous sexes
+2,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,20,1020,2.246,de 75 a  79 ans,tous sexes
+3,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,1250,45710,2.732,de 75 a  79 ans,tous sexes
+4,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,990,30910,3.187,de 75 a  79 ans,tous sexes
+5,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,760,24400,3.115,de 75 a  79 ans,tous sexes
+6,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,380,14420,2.643,de 75 a  79 ans,tous sexes
+7,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,810,25230,3.191,de 75 a  79 ans,tous sexes
+8,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,310,11430,2.676,de 75 a  79 ans,tous sexes
+9,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,690,21260,3.241,de 75 a  79 ans,tous sexes
+10,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,1680,45470,3.691,de 75 a  79 ans,tous sexes
+11,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,4480,127530,3.513,de 75 a  79 ans,tous sexes
+12,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,3000,78850,3.803,de 75 a  79 ans,tous sexes
+13,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,6820,192730,3.539,de 75 a  79 ans,tous sexes
+14,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,370,12130,3.025,de 75 a  79 ans,tous sexes
+15,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,580,20260,2.853,de 75 a  79 ans,tous sexes
+16,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,300,7530,3.947,de 75 a  79 ans,tous sexes
+17,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,500,15380,3.251,de 75 a  79 ans,tous sexes
+18,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,690,21860,3.138,de 75 a  79 ans,tous sexes
+19,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,3920,142880,2.743,de 75 a  79 ans,tous sexes
+20,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,920,37990,2.419,de 75 a  79 ans,tous sexes
+21,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,35,840,34910,2.409,de 75 a  79 ans,tous sexes
+22,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,420,15320,2.767,de 75 a  79 ans,tous sexes
+23,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,440,15950,2.771,de 75 a  79 ans,tous sexes
+24,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,920,30550,3.005,de 75 a  79 ans,tous sexes
+25,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,480,16090,2.99,de 75 a  79 ans,tous sexes
+26,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,430,13270,3.234,de 75 a  79 ans,tous sexes
+27,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,1000,33730,2.97,de 75 a  79 ans,tous sexes
+28,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,280,9290,3.037,de 75 a  79 ans,tous sexes
+29,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,270,9030,2.958,de 75 a  79 ans,tous sexes
+30,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,340,11120,3.031,de 75 a  79 ans,tous sexes
+31,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,720,24900,2.875,de 75 a  79 ans,tous sexes
+32,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,82,320,10460,3.012,de 75 a  79 ans,tous sexes
+33,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,620,22310,2.757,de 75 a  79 ans,tous sexes
+34,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,1740,61880,2.812,de 75 a  79 ans,tous sexes
+35,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,2950,82200,3.583,de 75 a  79 ans,tous sexes
+36,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,971,190,4330,4.409,de 80 a  84 ans,hommes
+37,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,210,4450,4.721,de 80 a  84 ans,hommes
+38,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,20,320,5.38,de 80 a  84 ans,hommes
+39,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,1020,20580,4.933,de 80 a  84 ans,hommes
+40,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,790,14160,5.566,de 80 a  84 ans,hommes
+41,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,650,11540,5.641,de 80 a  84 ans,hommes
+42,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,720,13550,5.328,de 80 a  84 ans,hommes
+43,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,690,10930,6.265,de 80 a  84 ans,hommes
+44,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,510,9030,5.623,de 80 a  84 ans,hommes
+45,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,470,7890,5.931,de 80 a  84 ans,hommes
+46,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,370,6360,5.775,de 80 a  84 ans,hommes
+47,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,210,3570,5.891,de 80 a  84 ans,hommes
+48,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,340,4540,7.504,de 80 a  84 ans,hommes
+49,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,440,6120,7.207,de 80 a  84 ans,hommes
+50,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,330,5410,6.098,de 80 a  84 ans,hommes
+51,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,1660,21830,7.606,de 80 a  84 ans,hommes
+52,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,3750,53910,6.96,de 80 a  84 ans,hommes
+53,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,230,3680,6.335,de 80 a  84 ans,hommes
+54,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,160,2530,6.406,de 80 a  84 ans,hommes
+55,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,140,2260,6.153,de 80 a  84 ans,hommes
+56,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,930,13370,6.956,de 80 a  84 ans,hommes
+57,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,630,9350,6.769,de 80 a  84 ans,hommes
+58,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,520,9450,5.472,de 80 a  84 ans,hommes
+59,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,460,7270,6.342,de 80 a  84 ans,hommes
+60,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,620,10130,6.161,de 80 a  84 ans,hommes
+61,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,530,8880,5.925,de 80 a  84 ans,hommes
+62,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,650,11590,5.601,de 80 a  84 ans,hommes
+63,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,2400,42450,5.642,de 80 a  84 ans,hommes
+64,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,280,3590,7.793,de 80 a  84 ans,hommes
+65,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,1020,17280,5.875,de 80 a  84 ans,hommes
+66,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,280,5430,5.228,de 80 a  84 ans,hommes
+67,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,4960,81690,6.073,de 80 a  84 ans,hommes
+68,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,330,5380,6.169,de 80 a  84 ans,hommes
+69,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,280,4580,6.135,de 80 a  84 ans,hommes
+70,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,720,13380,5.387,de 80 a  84 ans,hommes
+71,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,790,14850,5.299,de 80 a  84 ans,hommes
+72,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,48,80,1140,7.262,de 80 a  84 ans,hommes
+73,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,420,7360,5.669,de 80 a  84 ans,hommes
+74,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,140,2220,6.405,de 80 a  84 ans,hommes
+75,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,400,6540,6.119,de 80 a  84 ans,hommes
+76,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,170,2350,7.371,de 80 a  84 ans,hommes
+77,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,380,6940,5.534,de 80 a  84 ans,hommes
+78,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,730,10130,7.235,de 80 a  84 ans,hommes
+79,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,1080,19200,5.621,de 80 a  84 ans,hommes
+80,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,310,4820,6.48,de 80 a  84 ans,hommes
+81,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,470,8220,5.743,de 80 a  84 ans,hommes
+82,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,130,2050,6.448,de 80 a  84 ans,hommes
+83,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,180,2430,7.452,de 80 a  84 ans,hommes
+84,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,46600,767660,6.071,de 80 a  84 ans,hommes
+85,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,230,5820,3.918,de 80 a  84 ans,femmes
+86,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,220,6470,3.445,de 80 a  84 ans,femmes
+87,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,450,8410,5.388,de 80 a  84 ans,femmes
+88,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,350,,de 80 a  84 ans,femmes
+89,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,660,18610,3.557,de 80 a  84 ans,femmes
+90,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,580,15650,3.68,de 80 a  84 ans,femmes
+91,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,999,1870,44090,4.248,de 80 a  84 ans,femmes
+92,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,80,2150,3.538,de 80 a  84 ans,femmes
+93,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,420,8520,4.874,de 80 a  84 ans,femmes
+94,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,460,9760,4.735,de 80 a  84 ans,femmes
+95,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,380,7950,4.828,de 80 a  84 ans,femmes
+96,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,500,10180,4.881,de 80 a  84 ans,femmes
+97,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,380,8570,4.425,de 80 a  84 ans,femmes
+98,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,220,5150,4.273,de 80 a  84 ans,femmes
+99,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,160,3350,4.897,de 80 a  84 ans,femmes
+100,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,760,17390,4.352,de 80 a  84 ans,femmes
+101,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,650,12090,5.368,de 80 a  84 ans,femmes
+102,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,180,4390,4.194,de 80 a  84 ans,femmes
+103,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,230,5300,4.3,de 80 a  84 ans,femmes
+104,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,2390,61670,3.876,de 80 a  84 ans,femmes
+105,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,510,12330,4.16,de 80 a  84 ans,femmes
+106,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,56,540,14710,3.699,de 80 a  84 ans,femmes
+107,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,210,6610,3.207,de 80 a  84 ans,femmes
+108,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,150,3970,3.877,de 80 a  84 ans,femmes
+109,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,220,5060,4.27,de 80 a  84 ans,femmes
+110,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,380,9930,3.815,de 80 a  84 ans,femmes
+111,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,82,190,4370,4.307,de 80 a  84 ans,femmes
+112,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,130,2930,4.364,de 80 a  84 ans,femmes
+113,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,340,9010,3.796,de 80 a  84 ans,femmes
+114,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,260,7100,3.622,de 80 a  84 ans,femmes
+115,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,5420,125260,4.33,de 80 a  84 ans,femmes
+116,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,1680,33370,5.022,de 80 a  84 ans,femmes
+117,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,900,22810,3.932,de 80 a  84 ans,femmes
+118,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,200,3050,6.428,de 80 a  84 ans,femmes
+119,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,420,10150,4.127,de 80 a  84 ans,tous sexes
+120,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,800,14170,5.632,de 80 a  84 ans,tous sexes
+121,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,800,14170,5.632,de 80 a  84 ans,tous sexes
+122,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,20,670,3.303,de 80 a  84 ans,tous sexes
+123,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,1490,32820,4.537,de 80 a  84 ans,tous sexes
+124,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,1010,21430,4.719,de 80 a  84 ans,tous sexes
+125,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,610,11410,5.382,de 80 a  84 ans,tous sexes
+126,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,450,8270,5.403,de 80 a  84 ans,tous sexes
+127,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,900,18230,4.953,de 80 a  84 ans,tous sexes
+128,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,999,3950,77470,5.099,de 80 a  84 ans,tous sexes
+129,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,640,10440,6.122,de 80 a  84 ans,tous sexes
+130,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,150,3730,4.019,de 80 a  84 ans,tous sexes
+131,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,860,14630,5.849,de 80 a  84 ans,tous sexes
+132,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,2020,33050,6.113,de 80 a  84 ans,tous sexes
+133,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,3580,55820,6.408,de 80 a  84 ans,tous sexes
+134,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,8070,135980,5.936,de 80 a  84 ans,tous sexes
+135,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,690,14400,4.814,de 80 a  84 ans,tous sexes
+136,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,940,19630,4.783,de 80 a  84 ans,tous sexes
+137,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,1430,29810,4.79,de 80 a  84 ans,tous sexes
+138,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,1830,31070,5.904,de 80 a  84 ans,tous sexes
+139,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,970,22370,4.349,de 80 a  84 ans,tous sexes
+140,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,1140,22930,4.985,de 80 a  84 ans,tous sexes
+141,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,5060,107090,4.725,de 80 a  84 ans,tous sexes
+142,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,1330,29200,4.558,de 80 a  84 ans,tous sexes
+143,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,760,14190,5.32,de 80 a  84 ans,tous sexes
+144,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,1180,23150,5.097,de 80 a  84 ans,tous sexes
+145,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,9260,191070,4.846,de 80 a  84 ans,tous sexes
+146,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,580,12230,4.733,de 80 a  84 ans,tous sexes
+147,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,370,6850,5.461,de 80 a  84 ans,tous sexes
+148,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,48,170,2570,6.415,de 80 a  84 ans,tous sexes
+149,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,800,17290,4.604,de 80 a  84 ans,tous sexes
+150,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,999,8550,179790,4.753,de 80 a  84 ans,tous sexes
+151,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,330,5600,5.97,de 80 a  84 ans,tous sexes
+152,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,570,12550,4.533,de 80 a  84 ans,tous sexes
+153,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,63,1020,18990,5.382,de 80 a  84 ans,tous sexes
+154,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,540,12380,4.379,de 80 a  84 ans,tous sexes
+155,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,91340,1813780,5.036,de 80 a  84 ans,tous sexes
+156,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,30,350,8.406,de 85 a  89 ans,hommes
+157,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,260,3020,8.664,de 85 a  89 ans,hommes
+158,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,260,3020,8.664,de 85 a  89 ans,hommes
+159,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,999,0,160,,de 85 a  89 ans,hommes
+160,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,640,7170,8.897,de 85 a  89 ans,hommes
+161,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,810,9550,8.506,de 85 a  89 ans,hommes
+162,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,520,5930,8.767,de 85 a  89 ans,hommes
+163,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,270,2670,10.049,de 85 a  89 ans,hommes
+164,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,570,5690,10.009,de 85 a  89 ans,hommes
+165,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,350,3160,11.167,de 85 a  89 ans,hommes
+166,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,60,1070,5.431,de 85 a  89 ans,hommes
+167,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,430,4090,10.411,de 85 a  89 ans,hommes
+168,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,570,5340,10.74,de 85 a  89 ans,hommes
+169,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,360,3200,11.149,de 85 a  89 ans,hommes
+170,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,2910,27530,10.573,de 85 a  89 ans,hommes
+171,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,1520,14630,10.391,de 85 a  89 ans,hommes
+172,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,360,4070,8.743,de 85 a  89 ans,hommes
+173,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,450,5520,8.22,de 85 a  89 ans,hommes
+174,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,310,3280,9.382,de 85 a  89 ans,hommes
+175,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,640,7070,9.101,de 85 a  89 ans,hommes
+176,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,330,3240,10.148,de 85 a  89 ans,hommes
+177,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,3160,33010,9.571,de 85 a  89 ans,hommes
+178,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,160,1430,10.894,de 85 a  89 ans,hommes
+179,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,1180,12510,9.425,de 85 a  89 ans,hommes
+180,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,380,3940,9.508,de 85 a  89 ans,hommes
+181,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,320,3880,8.112,de 85 a  89 ans,hommes
+182,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,550,6950,7.914,de 85 a  89 ans,hommes
+183,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,900,9860,9.084,de 85 a  89 ans,hommes
+184,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,260,2500,10.524,de 85 a  89 ans,hommes
+185,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,900,10160,8.843,de 85 a  89 ans,hommes
+186,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,440,4690,9.347,de 85 a  89 ans,hommes
+187,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,160,1770,9.219,de 85 a  89 ans,hommes
+188,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,190,1810,10.509,de 85 a  89 ans,hommes
+189,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,390,4550,8.469,de 85 a  89 ans,hommes
+190,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,1010,9640,10.499,de 85 a  89 ans,hommes
+191,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,1130,12930,8.715,de 85 a  89 ans,hommes
+192,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,320,3560,8.971,de 85 a  89 ans,hommes
+193,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,6100,63510,9.604,de 85 a  89 ans,hommes
+194,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,1600,16480,9.724,de 85 a  89 ans,hommes
+195,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,140,1460,9.883,de 85 a  89 ans,hommes
+196,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,250,4390,5.718,de 85 a  89 ans,femmes
+197,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,230,4760,4.918,de 85 a  89 ans,femmes
+198,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,50,590,8.007,de 85 a  89 ans,femmes
+199,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,980,12260,8.009,de 85 a  89 ans,femmes
+200,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,880,12670,6.921,de 85 a  89 ans,femmes
+201,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,930,11290,8.204,de 85 a  89 ans,femmes
+202,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,910,13800,6.623,de 85 a  89 ans,femmes
+203,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,450,5250,8.616,de 85 a  89 ans,femmes
+204,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,460,5670,8.026,de 85 a  89 ans,femmes
+205,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,630,9040,6.922,de 85 a  89 ans,femmes
+206,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,999,2880,39070,7.359,de 85 a  89 ans,femmes
+207,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,300,4070,7.475,de 85 a  89 ans,femmes
+208,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,310,4160,7.385,de 85 a  89 ans,femmes
+209,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,720,9780,7.329,de 85 a  89 ans,femmes
+210,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,1580,17130,9.214,de 85 a  89 ans,femmes
+211,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,530,7030,7.535,de 85 a  89 ans,femmes
+212,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,750,8580,8.708,de 85 a  89 ans,femmes
+213,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,480,7180,6.689,de 85 a  89 ans,femmes
+214,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,220,2830,7.788,de 85 a  89 ans,femmes
+215,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,1040,13790,7.508,de 85 a  89 ans,femmes
+216,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,500,6000,8.331,de 85 a  89 ans,femmes
+217,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,800,11470,6.972,de 85 a  89 ans,femmes
+218,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,820,11150,7.384,de 85 a  89 ans,femmes
+219,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,3840,54430,7.055,de 85 a  89 ans,femmes
+220,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,440,6130,7.23,de 85 a  89 ans,femmes
+221,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,670,7860,8.501,de 85 a  89 ans,femmes
+222,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,1590,21110,7.508,de 85 a  89 ans,femmes
+223,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,500,7010,7.133,de 85 a  89 ans,femmes
+224,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,390,6170,6.35,de 85 a  89 ans,femmes
+225,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,440,5520,7.953,de 85 a  89 ans,femmes
+226,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,1080,15830,6.793,de 85 a  89 ans,femmes
+227,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,280,3560,7.984,de 85 a  89 ans,femmes
+228,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,260,3390,7.631,de 85 a  89 ans,femmes
+229,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,200,2760,7.272,de 85 a  89 ans,femmes
+230,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,200,2900,7.039,de 85 a  89 ans,femmes
+231,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,950,12090,7.818,de 85 a  89 ans,femmes
+232,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,8020,105580,7.594,de 85 a  89 ans,femmes
+233,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,2430,27750,8.739,de 85 a  89 ans,femmes
+234,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,1310,18390,7.111,de 85 a  89 ans,femmes
+235,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,190,2160,8.762,de 85 a  89 ans,femmes
+236,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,971,430,7100,6.075,de 85 a  89 ans,tous sexes
+237,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,430,7100,6.075,de 85 a  89 ans,tous sexes
+238,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,410,7740,5.271,de 85 a  89 ans,tous sexes
+239,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,410,7740,5.271,de 85 a  89 ans,tous sexes
+240,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,80,930,8.155,de 85 a  89 ans,tous sexes
+241,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,999,0,330,,de 85 a  89 ans,tous sexes
+242,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,2580,36050,7.16,de 85 a  89 ans,tous sexes
+243,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,1550,17940,8.634,de 85 a  89 ans,tous sexes
+244,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,999,13670,181950,7.514,de 85 a  89 ans,tous sexes
+245,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,1220,14750,8.27,de 85 a  89 ans,tous sexes
+246,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,720,9340,7.654,de 85 a  89 ans,tous sexes
+247,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,850,11330,7.508,de 85 a  89 ans,tous sexes
+248,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,560,6530,8.619,de 85 a  89 ans,tous sexes
+249,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,520,5480,9.479,de 85 a  89 ans,tous sexes
+250,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,999,5730,68760,8.335,de 85 a  89 ans,tous sexes
+251,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,7080,76390,9.265,de 85 a  89 ans,tous sexes
+252,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,4230,44180,9.572,de 85 a  89 ans,tous sexes
+253,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,62,2360,27990,8.447,de 85 a  89 ans,tous sexes
+254,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,840,11250,7.432,de 85 a  89 ans,tous sexes
+255,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,1130,15350,7.327,de 85 a  89 ans,tous sexes
+256,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,1490,15720,9.499,de 85 a  89 ans,tous sexes
+257,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,9920,117080,8.473,de 85 a  89 ans,tous sexes
+258,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,2080,28220,7.367,de 85 a  89 ans,tous sexes
+259,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,710,8120,8.717,de 85 a  89 ans,tous sexes
+260,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,6560,83260,7.879,de 85 a  89 ans,tous sexes
+261,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,380,4040,9.39,de 85 a  89 ans,tous sexes
+262,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,1620,19120,8.453,de 85 a  89 ans,tous sexes
+263,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,820,10180,8.004,de 85 a  89 ans,tous sexes
+264,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,440,5600,7.876,de 85 a  89 ans,tous sexes
+265,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,930,13560,6.89,de 85 a  89 ans,tous sexes
+266,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,810,10290,7.843,de 85 a  89 ans,tous sexes
+267,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,2370,24750,9.57,de 85 a  89 ans,tous sexes
+268,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,750,9530,7.912,de 85 a  89 ans,tous sexes
+269,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,14120,169090,8.349,de 85 a  89 ans,tous sexes
+270,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,2090,30530,6.856,de 85 a  89 ans,tous sexes
+271,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,1060,12990,8.167,de 85 a  89 ans,tous sexes
+272,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,10200,126420,8.07,de 85 a  89 ans,tous sexes
+273,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,100,1350,7.561,de 90 a  94 ans,hommes
+274,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,20,130,12.308,de 90 a  94 ans,hommes
+275,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,110,1100,10.137,de 90 a  94 ans,hommes
+276,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,110,1100,10.137,de 90 a  94 ans,hommes
+277,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,70,,de 90 a  94 ans,hommes
+278,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,340,2760,12.246,de 90 a  94 ans,hommes
+279,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,270,1690,16.005,de 90 a  94 ans,hommes
+280,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,230,1780,12.809,de 90 a  94 ans,hommes
+281,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,210,1940,10.594,de 90 a  94 ans,hommes
+282,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,130,1070,12.207,de 90 a  94 ans,hommes
+283,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,999,1480,11730,12.612,de 90 a  94 ans,hommes
+284,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,14,360,2580,13.998,de 90 a  94 ans,hommes
+285,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,240,1740,14.055,de 90 a  94 ans,hommes
+286,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,610,4070,14.999,de 90 a  94 ans,hommes
+287,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,250,1790,14.166,de 90 a  94 ans,hommes
+288,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,120,720,15.884,de 90 a  94 ans,hommes
+289,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,290,2460,11.925,de 90 a  94 ans,hommes
+290,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,120,890,13.898,de 90 a  94 ans,hommes
+291,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,2480,18130,13.684,de 90 a  94 ans,hommes
+292,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,420,3260,12.814,de 90 a  94 ans,hommes
+293,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,390,2580,15.012,de 90 a  94 ans,hommes
+294,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,470,3030,15.512,de 90 a  94 ans,hommes
+295,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,390,2770,13.909,de 90 a  94 ans,hommes
+296,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,56,360,2960,12.285,de 90 a  94 ans,hommes
+297,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,230,1310,17.813,de 90 a  94 ans,hommes
+298,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,350,2360,14.849,de 90 a  94 ans,hommes
+299,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,880,5990,14.734,de 90 a  94 ans,hommes
+300,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,280,2000,13.814,de 90 a  94 ans,hommes
+301,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,260,1880,13.762,de 90 a  94 ans,hommes
+302,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,230,1910,12.159,de 90 a  94 ans,hommes
+303,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,250,1720,14.244,de 90 a  94 ans,hommes
+304,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,590,4710,12.42,de 90 a  94 ans,hommes
+305,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,160,1200,13.083,de 90 a  94 ans,hommes
+306,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,190,1310,14.809,de 90 a  94 ans,hommes
+307,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,290,2310,12.749,de 90 a  94 ans,hommes
+308,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,120,840,14.303,de 90 a  94 ans,hommes
+309,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,120,780,15.769,de 90 a  94 ans,hommes
+310,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,43,170,950,17.789,de 90 a  94 ans,hommes
+311,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,3830,28550,13.428,de 90 a  94 ans,hommes
+312,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,650,5570,11.678,de 90 a  94 ans,hommes
+313,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,2780,22400,12.397,de 90 a  94 ans,hommes
+314,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,70,620,11.916,de 90 a  94 ans,hommes
+315,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,31900,241300,13.218,de 90 a  94 ans,hommes
+316,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,190,2420,8.026,de 90 a  94 ans,femmes
+317,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,20,280,6.093,de 90 a  94 ans,femmes
+318,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,270,2750,9.858,de 90 a  94 ans,femmes
+319,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,80,,de 90 a  94 ans,femmes
+320,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,850,9040,9.382,de 90 a  94 ans,femmes
+321,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,920,8370,10.976,de 90 a  94 ans,femmes
+322,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,520,3560,14.571,de 90 a  94 ans,femmes
+323,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,290,2670,10.749,de 90 a  94 ans,femmes
+324,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,390,3530,10.926,de 90 a  94 ans,femmes
+325,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,620,5530,11.224,de 90 a  94 ans,femmes
+326,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,470,4150,11.218,de 90 a  94 ans,femmes
+327,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,280,2550,10.793,de 90 a  94 ans,femmes
+328,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,280,2680,10.493,de 90 a  94 ans,femmes
+329,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,460,3360,13.669,de 90 a  94 ans,femmes
+330,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,999,3110,26800,11.603,de 90 a  94 ans,femmes
+331,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,2210,17510,12.613,de 90 a  94 ans,femmes
+332,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,5130,42020,12.215,de 90 a  94 ans,femmes
+333,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,660,5920,11.105,de 90 a  94 ans,femmes
+334,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,190,1680,11.509,de 90 a  94 ans,femmes
+335,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,1060,8000,13.246,de 90 a  94 ans,femmes
+336,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,730,5700,12.851,de 90 a  94 ans,femmes
+337,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,260,2280,11.316,de 90 a  94 ans,femmes
+338,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,1180,11120,10.58,de 90 a  94 ans,femmes
+339,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,840,6750,12.437,de 90 a  94 ans,femmes
+340,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,1030,9110,11.303,de 90 a  94 ans,femmes
+341,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,3670,32120,11.428,de 90 a  94 ans,femmes
+342,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,200,1700,11.91,de 90 a  94 ans,femmes
+343,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,7300,63210,11.543,de 90 a  94 ans,femmes
+344,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,390,4030,9.712,de 90 a  94 ans,femmes
+345,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,400,3470,11.592,de 90 a  94 ans,femmes
+346,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,1100,10030,10.93,de 90 a  94 ans,femmes
+347,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,270,2310,11.732,de 90 a  94 ans,femmes
+348,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,490,5270,9.376,de 90 a  94 ans,femmes
+349,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,430,4190,10.346,de 90 a  94 ans,femmes
+350,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,1330,9230,14.427,de 90 a  94 ans,femmes
+351,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,1430,13680,10.458,de 90 a  94 ans,femmes
+352,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,420,3570,11.827,de 90 a  94 ans,femmes
+353,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,1250,12480,10.006,de 90 a  94 ans,femmes
+354,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,190,1350,13.883,de 90 a  94 ans,femmes
+355,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,999,400,2890,13.896,de 90 a  94 ans,femmes
+356,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,62930,548400,11.475,de 90 a  94 ans,femmes
+357,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,280,3640,7.813,de 90 a  94 ans,tous sexes
+358,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,380,3840,9.938,de 90 a  94 ans,tous sexes
+359,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,1590,15340,10.37,de 90 a  94 ans,tous sexes
+360,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,1120,9090,12.32,de 90 a  94 ans,tous sexes
+361,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,630,4660,13.611,de 90 a  94 ans,tous sexes
+362,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,610,5310,11.557,de 90 a  94 ans,tous sexes
+363,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,970,8110,11.939,de 90 a  94 ans,tous sexes
+364,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,810,6730,11.989,de 90 a  94 ans,tous sexes
+365,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,670,6090,11.02,de 90 a  94 ans,tous sexes
+366,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,430,3720,11.6,de 90 a  94 ans,tous sexes
+367,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,1010,8890,11.3,de 90 a  94 ans,tous sexes
+368,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,670,4820,13.978,de 90 a  94 ans,tous sexes
+369,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,750,4650,16.072,de 90 a  94 ans,tous sexes
+370,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,5790,41890,13.824,de 90 a  94 ans,tous sexes
+371,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,780,6140,12.712,de 90 a  94 ans,tous sexes
+372,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,1580,11330,13.943,de 90 a  94 ans,tous sexes
+373,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,610,4960,12.225,de 90 a  94 ans,tous sexes
+374,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,7530,61520,12.233,de 90 a  94 ans,tous sexes
+375,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,590,4600,12.815,de 90 a  94 ans,tous sexes
+376,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,1030,7980,12.953,de 90 a  94 ans,tous sexes
+377,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,690,5620,12.344,de 90 a  94 ans,tous sexes
+378,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,1070,11070,9.687,de 90 a  94 ans,tous sexes
+379,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,960,7380,13.005,de 90 a  94 ans,tous sexes
+380,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,690,5630,12.183,de 90 a  94 ans,tous sexes
+381,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,720,5990,11.945,de 90 a  94 ans,tous sexes
+382,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,11410,91770,12.438,de 90 a  94 ans,tous sexes
+383,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,650,5190,12.471,de 90 a  94 ans,tous sexes
+384,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,1680,14740,11.407,de 90 a  94 ans,tous sexes
+385,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,1690,14890,11.378,de 90 a  94 ans,tous sexes
+386,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,450,3260,13.812,de 90 a  94 ans,tous sexes
+387,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,530,4170,12.614,de 90 a  94 ans,tous sexes
+388,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,780,7760,10.059,de 90 a  94 ans,tous sexes
+389,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,900,7100,12.643,de 90 a  94 ans,tous sexes
+390,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,750,6430,11.701,de 90 a  94 ans,tous sexes
+391,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,2010,13520,14.858,de 90 a  94 ans,tous sexes
+392,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,800,7320,10.977,de 90 a  94 ans,tous sexes
+393,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,3160,24460,12.92,de 90 a  94 ans,tous sexes
+394,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,4,270,2410,10.987,de 90 a  94 ans,tous sexes
+395,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,1940,18200,10.671,de 90 a  94 ans,tous sexes
+396,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,94820,789690,12.007,de 90 a  94 ans,tous sexes
+397,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,50,510,9.18,plus de 95 ans,hommes
+398,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,50,510,9.18,plus de 95 ans,hommes
+399,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,0,40,,plus de 95 ans,hommes
+400,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,40,,plus de 95 ans,hommes
+401,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,30,320,9.494,plus de 95 ans,hommes
+402,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,30,320,9.494,plus de 95 ans,hommes
+403,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,320,2080,15.248,plus de 95 ans,hommes
+404,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,110,670,16.517,plus de 95 ans,hommes
+405,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,999,1300,8510,15.313,plus de 95 ans,hommes
+406,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,80,390,19.036,plus de 95 ans,hommes
+407,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,70,330,20.427,plus de 95 ans,hommes
+408,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,150,740,19.674,plus de 95 ans,hommes
+409,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,20,90,17.978,plus de 95 ans,hommes
+410,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,140,650,22.257,plus de 95 ans,hommes
+411,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,220,1080,20.499,plus de 95 ans,hommes
+412,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,50,370,14.209,plus de 95 ans,hommes
+413,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,110,510,21.415,plus de 95 ans,hommes
+414,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,20,160,14.634,plus de 95 ans,hommes
+415,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,180,1240,14.746,plus de 95 ans,hommes
+416,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,180,1080,17.069,plus de 95 ans,hommes
+417,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,730,4270,16.986,plus de 95 ans,hommes
+418,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,130,670,19.133,plus de 95 ans,hommes
+419,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,60,330,18.154,plus de 95 ans,hommes
+420,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,50,220,20.179,plus de 95 ans,hommes
+421,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,320,1700,18.798,plus de 95 ans,hommes
+422,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,90,500,18.474,plus de 95 ans,hommes
+423,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,160,870,18.035,plus de 95 ans,hommes
+424,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,200,1290,15.581,plus de 95 ans,hommes
+425,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,999,1230,7440,16.568,plus de 95 ans,hommes
+426,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,90,490,18.275,plus de 95 ans,hommes
+427,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,80,540,14.549,plus de 95 ans,hommes
+428,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,70,500,13.492,plus de 95 ans,hommes
+429,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,130,800,16.105,plus de 95 ans,hommes
+430,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,250,1560,15.81,plus de 95 ans,hommes
+431,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,60,420,14.699,plus de 95 ans,hommes
+432,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,90,580,14.63,plus de 95 ans,hommes
+433,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,250,1650,15.012,plus de 95 ans,hommes
+434,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,960,6040,15.803,plus de 95 ans,hommes
+435,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,110,1390,7.653,plus de 95 ans,femmes
+436,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,110,1390,7.653,plus de 95 ans,femmes
+437,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,40,,plus de 95 ans,femmes
+438,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,1060,7280,14.562,plus de 95 ans,femmes
+439,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,470,3010,15.714,plus de 95 ans,femmes
+440,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,550,3970,13.872,plus de 95 ans,femmes
+441,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,350,2480,13.998,plus de 95 ans,femmes
+442,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,340,2120,16.203,plus de 95 ans,femmes
+443,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,230,1660,13.716,plus de 95 ans,femmes
+444,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,100,740,13.667,plus de 95 ans,femmes
+445,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,280,1470,18.967,plus de 95 ans,femmes
+446,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,380,2250,16.793,plus de 95 ans,femmes
+447,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,1980,11930,16.567,plus de 95 ans,femmes
+448,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,250,1610,15.261,plus de 95 ans,femmes
+449,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,360,1940,18.402,plus de 95 ans,femmes
+450,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,62,550,3800,14.44,plus de 95 ans,femmes
+451,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,54,330,2170,15.289,plus de 95 ans,femmes
+452,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,240,1350,17.691,plus de 95 ans,femmes
+453,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,420,3450,12.076,plus de 95 ans,femmes
+454,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,1050,6580,15.973,plus de 95 ans,femmes
+455,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,260,1810,14.215,plus de 95 ans,femmes
+456,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,4380,28720,15.238,plus de 95 ans,femmes
+457,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,720,4700,15.259,plus de 95 ans,femmes
+458,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,140,980,14.228,plus de 95 ans,femmes
+459,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,260,2210,11.605,plus de 95 ans,femmes
+460,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,82,200,1110,18.395,plus de 95 ans,femmes
+461,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,999,3600,25170,14.297,plus de 95 ans,femmes
+462,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,43,200,940,21.467,plus de 95 ans,femmes
+463,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,840,5770,14.6,plus de 95 ans,femmes
+464,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,240,1420,16.937,plus de 95 ans,femmes
+465,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,300,2100,14.476,plus de 95 ans,femmes
+466,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,830,5780,14.424,plus de 95 ans,femmes
+467,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,720,5070,14.167,plus de 95 ans,femmes
+468,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,280,2050,13.805,plus de 95 ans,femmes
+469,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,999,180,1180,15.326,plus de 95 ans,femmes
+470,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,150,1900,8.065,plus de 95 ans,tous sexes
+471,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,150,1900,8.065,plus de 95 ans,tous sexes
+472,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,170,1480,11.502,plus de 95 ans,tous sexes
+473,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,170,1480,11.502,plus de 95 ans,tous sexes
+474,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,630,3940,15.879,plus de 95 ans,tous sexes
+475,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,670,4450,15.082,plus de 95 ans,tous sexes
+476,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,300,1770,16.695,plus de 95 ans,tous sexes
+477,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,550,3390,16.243,plus de 95 ans,tous sexes
+478,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,460,3190,14.496,plus de 95 ans,tous sexes
+479,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,310,2120,14.387,plus de 95 ans,tous sexes
+480,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,210,1430,14.436,plus de 95 ans,tous sexes
+481,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,350,1750,20.057,plus de 95 ans,tous sexes
+482,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,910,5070,17.972,plus de 95 ans,tous sexes
+483,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,470,2450,19.028,plus de 95 ans,tous sexes
+484,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,330,2090,15.616,plus de 95 ans,tous sexes
+485,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,330,2140,15.269,plus de 95 ans,tous sexes
+486,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,140,910,14.929,plus de 95 ans,tous sexes
+487,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,430,3080,13.929,plus de 95 ans,tous sexes
+488,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,150,1030,14.714,plus de 95 ans,tous sexes
+489,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,670,4220,15.913,plus de 95 ans,tous sexes
+490,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,35,710,4580,15.433,plus de 95 ans,tous sexes
+491,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,170,960,17.917,plus de 95 ans,tous sexes
+492,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,370,2410,15.365,plus de 95 ans,tous sexes
+493,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,520,3720,13.91,plus de 95 ans,tous sexes
+494,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,240,1460,16.426,plus de 95 ans,tous sexes
+495,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,210,1320,15.785,plus de 95 ans,tous sexes
+496,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,450,2720,16.385,plus de 95 ans,tous sexes
+497,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,140,970,14.021,plus de 95 ans,tous sexes
+498,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,890,4840,18.483,plus de 95 ans,tous sexes
+499,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,590,3890,15.082,plus de 95 ans,tous sexes
+500,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,310,1810,17.1,plus de 95 ans,tous sexes
+501,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,140,760,18.206,plus de 95 ans,tous sexes
+502,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,940,6530,14.402,plus de 95 ans,tous sexes
+503,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,999,250,1550,16.01,plus de 95 ans,tous sexes
+504,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,1650,167510,0.983,tous ages,hommes
+505,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,3700,456450,0.81,tous ages,hommes
+506,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,3360,299480,1.122,tous ages,hommes
+507,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,2720,254570,1.07,tous ages,hommes
+508,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,1450,127460,1.134,tous ages,hommes
+509,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,530,68480,0.767,tous ages,hommes
+510,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,2080,132910,1.568,tous ages,hommes
+511,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,3720,409380,0.91,tous ages,hommes
+512,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,2860,274410,1.041,tous ages,hommes
+513,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,1350,129460,1.041,tous ages,hommes
+514,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,3100,276660,1.12,tous ages,hommes
+515,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,3530,331430,1.064,tous ages,hommes
+516,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,7940,825010,0.962,tous ages,hommes
+517,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,1990,163290,1.216,tous ages,hommes
+518,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,2120,184730,1.149,tous ages,hommes
+519,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,86,2560,208020,1.23,tous ages,hommes
+520,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,11,2260,185590,1.215,tous ages,hommes
+521,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,5410,701090,0.771,tous ages,hommes
+522,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,1380,93780,1.473,tous ages,hommes
+523,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,2530,193320,1.309,tous ages,hommes
+524,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,2520,261740,0.962,tous ages,hommes
+525,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,2210,160280,1.379,tous ages,hommes
+526,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,4700,377590,1.245,tous ages,hommes
+527,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,43,1910,112770,1.69,tous ages,hommes
+528,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,2040,221150,0.924,tous ages,hommes
+529,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,40000,3996970,1.001,tous ages,hommes
+530,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,860,70930,1.218,tous ages,hommes
+531,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,440,107830,0.403,tous ages,femmes
+532,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,3120,486160,0.642,tous ages,femmes
+533,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,4380,687080,0.637,tous ages,femmes
+534,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,4940,732760,0.673,tous ages,femmes
+535,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,3840,668230,0.575,tous ages,femmes
+536,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,1740,171180,1.015,tous ages,femmes
+537,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,3130,354090,0.883,tous ages,femmes
+538,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,2350,277360,0.848,tous ages,femmes
+539,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,3260,283880,1.147,tous ages,femmes
+540,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,2900,311400,0.932,tous ages,femmes
+541,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,7190,654000,1.099,tous ages,femmes
+542,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,3600,426370,0.844,tous ages,femmes
+543,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,29200,3074430,0.95,tous ages,femmes
+544,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,1490,156190,0.957,tous ages,femmes
+545,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,2400,288330,0.834,tous ages,femmes
+546,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,1080,86070,1.258,tous ages,femmes
+547,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,3890,384790,1.01,tous ages,femmes
+548,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,1380,135700,1.015,tous ages,femmes
+549,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,26780,2743950,0.976,tous ages,femmes
+550,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,1580,155460,1.014,tous ages,femmes
+551,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,17090,2006530,0.852,tous ages,femmes
+552,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,920,57250,1.605,tous ages,femmes
+553,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,3970,365400,1.086,tous ages,femmes
+554,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,1860,192380,0.965,tous ages,femmes
+555,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,2070,189860,1.09,tous ages,femmes
+556,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,32520,3182700,1.022,tous ages,femmes
+557,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,3690,405260,0.91,tous ages,femmes
+558,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,5240,642520,0.816,tous ages,femmes
+559,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,1450,120970,1.202,tous ages,femmes
+560,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,6350,668790,0.949,tous ages,femmes
+561,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,43,1850,116500,1.588,tous ages,femmes
+562,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,1930,228660,0.844,tous ages,femmes
+563,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,2870,309070,0.93,tous ages,femmes
+564,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,1120,85330,1.313,tous ages,femmes
+565,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,999,2090,163290,1.28,tous ages,femmes
+566,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,3110,368750,0.843,tous ages,tous sexes
+567,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,3110,368750,0.843,tous ages,tous sexes
+568,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,6820,942610,0.723,tous ages,tous sexes
+569,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,240,118940,0.203,tous ages,tous sexes
+570,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,10050,1519950,0.661,tous ages,tous sexes
+571,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,9290,1350740,0.688,tous ages,tous sexes
+572,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,11130,1660630,0.67,tous ages,tous sexes
+573,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,10830,1664680,0.65,tous ages,tous sexes
+574,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,6650,687980,0.966,tous ages,tous sexes
+575,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,999,29200,2588200,1.128,tous ages,tous sexes
+576,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,4690,544070,0.862,tous ages,tous sexes
+577,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,2760,199320,1.382,tous ages,tous sexes
+578,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,2760,234040,1.18,tous ages,tous sexes
+579,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,6680,551440,1.212,tous ages,tous sexes
+580,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,999,30800,2786490,1.105,tous ages,tous sexes
+581,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,6210,607570,1.022,tous ages,tous sexes
+582,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,6600,500630,1.318,tous ages,tous sexes
+583,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,14410,1262970,1.141,tous ages,tous sexes
+584,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,999,38640,3348960,1.154,tous ages,tous sexes
+585,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,58760,5993570,0.98,tous ages,tous sexes
+586,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,3120,303030,1.029,tous ages,tous sexes
+587,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,2350,168400,1.398,tous ages,tous sexes
+588,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,4130,365420,1.129,tous ages,tous sexes
+589,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,6980,831580,0.839,tous ages,tous sexes
+590,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,5990,568820,1.053,tous ages,tous sexes
+591,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,32180,3445390,0.934,tous ages,tous sexes
+592,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,5080,443390,1.147,tous ages,tous sexes
+593,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,3930,337650,1.165,tous ages,tous sexes
+594,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,3980,377100,1.055,tous ages,tous sexes
+595,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,4270,365200,1.169,tous ages,tous sexes
+596,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,67550,6164560,1.096,tous ages,tous sexes
+597,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,3720,278980,1.333,tous ages,tous sexes
+598,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,7780,787460,0.988,tous ages,tous sexes
+599,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,10570,1430510,0.739,tous ages,tous sexes
+600,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,2630,192610,1.365,tous ages,tous sexes
+601,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,2400,174250,1.376,tous ages,tous sexes
+602,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,5440,511090,1.064,tous ages,tous sexes
+603,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,5030,399820,1.258,tous ages,tous sexes
+604,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,1950,155170,1.258,tous ages,tous sexes
+605,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,999,61660,6134790,1.005,tous ages,tous sexes
+606,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,5290,640200,0.826,tous ages,tous sexes
+607,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,4990,537500,0.928,tous ages,tous sexes
+608,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,3900,336210,1.161,tous ages,tous sexes
+609,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,77670,8187350,0.949,tous ages,tous sexes
+610,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,5970,602390,0.99,tous ages,tous sexes
+611,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,56610,5429420,1.043,tous ages,tous sexes
+612,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,1820,151640,1.203,tous ages,tous sexes
+613,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,0,8300,,de 0 a  4 ans,hommes
+614,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,0,8300,,de 0 a  4 ans,hommes
+615,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,0,10860,,de 0 a  4 ans,hommes
+616,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,10,32830,0.034,de 0 a  4 ans,hommes
+617,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,30,50360,0.064,de 0 a  4 ans,hommes
+618,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,30,51710,0.066,de 0 a  4 ans,hommes
+619,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,20,46420,0.05,de 0 a  4 ans,hommes
+620,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,12910,,de 0 a  4 ans,hommes
+621,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,0,5190,,de 0 a  4 ans,hommes
+622,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,14,0,16790,,de 0 a  4 ans,hommes
+623,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,0,5980,,de 0 a  4 ans,hommes
+624,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,62,10,39430,0.033,de 0 a  4 ans,hommes
+625,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,0,14170,,de 0 a  4 ans,hommes
+626,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,60,166900,0.035,de 0 a  4 ans,hommes
+627,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,0,7630,,de 0 a  4 ans,hommes
+628,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,0,14660,,de 0 a  4 ans,hommes
+629,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,0,3970,,de 0 a  4 ans,hommes
+630,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,0,22940,,de 0 a  4 ans,hommes
+631,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,0,29290,,de 0 a  4 ans,hommes
+632,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,19200,,de 0 a  4 ans,hommes
+633,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,30,132490,0.025,de 0 a  4 ans,hommes
+634,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,40,100950,0.04,de 0 a  4 ans,hommes
+635,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,0,21050,,de 0 a  4 ans,hommes
+636,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,56,0,17300,,de 0 a  4 ans,hommes
+637,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,7490,,de 0 a  4 ans,hommes
+638,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,0,4710,,de 0 a  4 ans,hommes
+639,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,0,2040,,de 0 a  4 ans,hommes
+640,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,86,0,10210,,de 0 a  4 ans,hommes
+641,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,20,19310,0.078,de 0 a  4 ans,hommes
+642,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,0,39260,,de 0 a  4 ans,hommes
+643,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,0,3720,,de 0 a  4 ans,hommes
+644,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,48,0,1460,,de 0 a  4 ans,hommes
+645,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,0,4690,,de 0 a  4 ans,hommes
+646,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,0,11410,,de 0 a  4 ans,hommes
+647,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,0,8670,,de 0 a  4 ans,hommes
+648,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,26,0,13590,,de 0 a  4 ans,hommes
+649,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,0,7010,,de 0 a  4 ans,hommes
+650,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,0,11220,,de 0 a  4 ans,hommes
+651,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,20,61390,0.036,de 0 a  4 ans,hommes
+652,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,4,0,3560,,de 0 a  4 ans,hommes
+653,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,0,15840,,de 0 a  4 ans,hommes
+654,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,50,138390,0.034,de 0 a  4 ans,hommes
+655,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,3570,,de 0 a  4 ans,hommes
+656,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,760,1837700,0.041,de 0 a  4 ans,hommes
+657,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,0,8740,,de 0 a  4 ans,femmes
+658,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,0,10490,,de 0 a  4 ans,femmes
+659,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,10490,,de 0 a  4 ans,femmes
+660,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,10,31900,0.041,de 0 a  4 ans,femmes
+661,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,8290,,de 0 a  4 ans,femmes
+662,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,30,48340,0.06,de 0 a  4 ans,femmes
+663,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,20,44510,0.036,de 0 a  4 ans,femmes
+664,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,20,42680,0.04,de 0 a  4 ans,femmes
+665,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,0,6440,,de 0 a  4 ans,femmes
+666,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,0,10970,,de 0 a  4 ans,femmes
+667,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,4150,,de 0 a  4 ans,femmes
+668,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,0,13620,,de 0 a  4 ans,femmes
+669,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,0,5700,,de 0 a  4 ans,femmes
+670,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,0,3330,,de 0 a  4 ans,femmes
+671,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,14,0,16060,,de 0 a  4 ans,femmes
+672,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,0,10680,,de 0 a  4 ans,femmes
+673,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,13010,,de 0 a  4 ans,femmes
+674,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,20,71440,0.031,de 0 a  4 ans,femmes
+675,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,62,10,37820,0.032,de 0 a  4 ans,femmes
+676,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,0,7210,,de 0 a  4 ans,femmes
+677,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,0,14120,,de 0 a  4 ans,femmes
+678,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,67,0,28170,,de 0 a  4 ans,femmes
+679,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,17930,,de 0 a  4 ans,femmes
+680,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,20,39290,0.041,de 0 a  4 ans,femmes
+681,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,0,7090,,de 0 a  4 ans,femmes
+682,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,40,95980,0.045,de 0 a  4 ans,femmes
+683,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,0,12790,,de 0 a  4 ans,femmes
+684,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,30,77100,0.039,de 0 a  4 ans,femmes
+685,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,0,12830,,de 0 a  4 ans,femmes
+686,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,0,41430,,de 0 a  4 ans,femmes
+687,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,0,7980,,de 0 a  4 ans,femmes
+688,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,0,7800,,de 0 a  4 ans,femmes
+689,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,0,5570,,de 0 a  4 ans,femmes
+690,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,20,18120,0.083,de 0 a  4 ans,femmes
+691,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,10,37230,0.038,de 0 a  4 ans,femmes
+692,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,0,3590,,de 0 a  4 ans,femmes
+693,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,10,29680,0.044,de 0 a  4 ans,femmes
+694,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,48,0,1420,,de 0 a  4 ans,femmes
+695,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,0,4400,,de 0 a  4 ans,femmes
+696,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,0,17260,,de 0 a  4 ans,femmes
+697,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,0,2570,,de 0 a  4 ans,femmes
+698,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,20,55420,0.042,de 0 a  4 ans,femmes
+699,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,0,7100,,de 0 a  4 ans,femmes
+700,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,50,57750,0.085,de 0 a  4 ans,femmes
+701,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,3010,,de 0 a  4 ans,femmes
+702,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,10,14740,0.081,de 0 a  4 ans,femmes
+703,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,3020,,de 0 a  4 ans,femmes
+704,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,3440,,de 0 a  4 ans,femmes
+705,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,999,0,6470,,de 0 a  4 ans,femmes
+706,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,740,1751170,0.042,de 0 a  4 ans,femmes
+707,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,0,16400,,de 0 a  4 ans,tous sexes
+708,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,20,64730,0.037,de 0 a  4 ans,tous sexes
+709,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,20,64730,0.037,de 0 a  4 ans,tous sexes
+710,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,50,90140,0.054,de 0 a  4 ans,tous sexes
+711,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,40,87120,0.042,de 0 a  4 ans,tous sexes
+712,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,70,100660,0.065,de 0 a  4 ans,tous sexes
+713,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,999,410,770360,0.053,de 0 a  4 ans,tous sexes
+714,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,30,37710,0.074,de 0 a  4 ans,tous sexes
+715,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,25250,,de 0 a  4 ans,tous sexes
+716,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,0,11530,,de 0 a  4 ans,tous sexes
+717,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,0,7650,,de 0 a  4 ans,tous sexes
+718,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,0,10250,,de 0 a  4 ans,tous sexes
+719,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,23850,,de 0 a  4 ans,tous sexes
+720,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,0,15100,,de 0 a  4 ans,tous sexes
+721,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,10,31650,0.044,de 0 a  4 ans,tous sexes
+722,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,0,11570,,de 0 a  4 ans,tous sexes
+723,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,26650,,de 0 a  4 ans,tous sexes
+724,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,20,46960,0.038,de 0 a  4 ans,tous sexes
+725,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,110,325410,0.034,de 0 a  4 ans,tous sexes
+726,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,0,7790,,de 0 a  4 ans,tous sexes
+727,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,0,44610,,de 0 a  4 ans,tous sexes
+728,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,0,15460,,de 0 a  4 ans,tous sexes
+729,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,30,80800,0.041,de 0 a  4 ans,tous sexes
+730,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,20,27970,0.057,de 0 a  4 ans,tous sexes
+731,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,60,158460,0.039,de 0 a  4 ans,tous sexes
+732,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,14620,,de 0 a  4 ans,tous sexes
+733,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,0,17880,,de 0 a  4 ans,tous sexes
+734,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,79,10,16490,0.073,de 0 a  4 ans,tous sexes
+735,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,80,268790,0.03,de 0 a  4 ans,tous sexes
+736,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,0,11110,,de 0 a  4 ans,tous sexes
+737,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,65,0,9090,,de 0 a  4 ans,tous sexes
+738,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,15,0,5330,,de 0 a  4 ans,tous sexes
+739,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,30,69760,0.046,de 0 a  4 ans,tous sexes
+740,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,20,39840,0.06,de 0 a  4 ans,tous sexes
+741,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,63,10,31440,0.041,de 0 a  4 ans,tous sexes
+742,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,50,114280,0.044,de 0 a  4 ans,tous sexes
+743,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,0,14600,,de 0 a  4 ans,tous sexes
+744,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,10,46920,0.03,de 0 a  4 ans,tous sexes
+745,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,20,54320,0.033,de 0 a  4 ans,tous sexes
+746,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,0,9230,,de 5 a  9 ans,hommes
+747,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,0,9230,,de 5 a  9 ans,hommes
+748,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,0,10010,,de 5 a  9 ans,hommes
+749,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,10010,,de 5 a  9 ans,hommes
+750,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,6290,,de 5 a  9 ans,hommes
+751,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,0,46740,,de 5 a  9 ans,hommes
+752,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,0,46070,,de 5 a  9 ans,hommes
+753,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,10,48610,0.023,de 5 a  9 ans,hommes
+754,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,28,0,13490,,de 5 a  9 ans,hommes
+755,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,5050,,de 5 a  9 ans,hommes
+756,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,0,9020,,de 5 a  9 ans,hommes
+757,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,14270,,de 5 a  9 ans,hommes
+758,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,0,6340,,de 5 a  9 ans,hommes
+759,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,14390,,de 5 a  9 ans,hommes
+760,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,0,9120,,de 5 a  9 ans,hommes
+761,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,0,12970,,de 5 a  9 ans,hommes
+762,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,61,0,7020,,de 5 a  9 ans,hommes
+763,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,15980,,de 5 a  9 ans,hommes
+764,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,20,150970,0.012,de 5 a  9 ans,hommes
+765,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,0,16730,,de 5 a  9 ans,hommes
+766,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,8770,,de 5 a  9 ans,hommes
+767,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,0,8930,,de 5 a  9 ans,hommes
+768,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,0,9380,,de 5 a  9 ans,hommes
+769,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,30,159670,0.017,de 5 a  9 ans,hommes
+770,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,0,42460,,de 5 a  9 ans,hommes
+771,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,0,4710,,de 5 a  9 ans,hommes
+772,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,0,3780,,de 5 a  9 ans,hommes
+773,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,999,20,166710,0.014,de 5 a  9 ans,hommes
+774,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,10,65630,0.018,de 5 a  9 ans,hommes
+775,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,4,0,4310,,de 5 a  9 ans,hommes
+776,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,3690,,de 5 a  9 ans,hommes
+777,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,0,30400,,de 5 a  9 ans,hommes
+778,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,0,17940,,de 5 a  9 ans,hommes
+779,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,0,8990,,de 5 a  9 ans,femmes
+780,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,973,0,9430,,de 5 a  9 ans,femmes
+781,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,9430,,de 5 a  9 ans,femmes
+782,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,0,34630,,de 5 a  9 ans,femmes
+783,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,92,0,48970,,de 5 a  9 ans,femmes
+784,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,10,59730,0.02,de 5 a  9 ans,femmes
+785,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,10,44330,0.025,de 5 a  9 ans,femmes
+786,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,20,46440,0.041,de 5 a  9 ans,femmes
+787,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,0,7340,,de 5 a  9 ans,femmes
+788,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,4860,,de 5 a  9 ans,femmes
+789,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,0,20170,,de 5 a  9 ans,femmes
+790,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,13800,,de 5 a  9 ans,femmes
+791,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,0,15780,,de 5 a  9 ans,femmes
+792,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,0,18320,,de 5 a  9 ans,femmes
+793,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,0,12530,,de 5 a  9 ans,femmes
+794,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,15440,,de 5 a  9 ans,femmes
+795,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,0,15960,,de 5 a  9 ans,femmes
+796,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,0,4140,,de 5 a  9 ans,femmes
+797,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,20880,,de 5 a  9 ans,femmes
+798,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,0,7300,,de 5 a  9 ans,femmes
+799,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,0,8860,,de 5 a  9 ans,femmes
+800,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,0,18540,,de 5 a  9 ans,femmes
+801,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,0,23010,,de 5 a  9 ans,femmes
+802,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,0,5250,,de 5 a  9 ans,femmes
+803,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,0,10660,,de 5 a  9 ans,femmes
+804,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,86,0,11280,,de 5 a  9 ans,femmes
+805,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,32,0,4340,,de 5 a  9 ans,femmes
+806,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,34,0,33210,,de 5 a  9 ans,femmes
+807,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,0,3710,,de 5 a  9 ans,femmes
+808,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,48,0,1740,,de 5 a  9 ans,femmes
+809,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,0,10160,,de 5 a  9 ans,femmes
+810,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,0,7900,,de 5 a  9 ans,femmes
+811,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,0,22360,,de 5 a  9 ans,femmes
+812,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,0,8550,,de 5 a  9 ans,femmes
+813,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,20,144550,0.014,de 5 a  9 ans,femmes
+814,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,971,0,20910,,de 5 a  9 ans,tous sexes
+815,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,0,18220,,de 5 a  9 ans,tous sexes
+816,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,0,18220,,de 5 a  9 ans,tous sexes
+817,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,0,70190,,de 5 a  9 ans,tous sexes
+818,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,12270,,de 5 a  9 ans,tous sexes
+819,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,30,95050,0.032,de 5 a  9 ans,tous sexes
+820,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,45,0,41320,,de 5 a  9 ans,tous sexes
+821,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,28070,,de 5 a  9 ans,tous sexes
+822,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,39,0,13680,,de 5 a  9 ans,tous sexes
+823,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,28230,,de 5 a  9 ans,tous sexes
+824,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,999,20,149390,0.011,de 5 a  9 ans,tous sexes
+825,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,31420,,de 5 a  9 ans,tous sexes
+826,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,80,374400,0.02,de 5 a  9 ans,tous sexes
+827,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,42860,,de 5 a  9 ans,tous sexes
+828,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,0,18120,,de 5 a  9 ans,tous sexes
+829,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,10,89570,0.013,de 5 a  9 ans,tous sexes
+830,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,53,0,17660,,de 5 a  9 ans,tous sexes
+831,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,40,227650,0.016,de 5 a  9 ans,tous sexes
+832,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,29,0,47350,,de 5 a  9 ans,tous sexes
+833,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,35,10,65600,0.02,de 5 a  9 ans,tous sexes
+834,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,0,18410,,de 5 a  9 ans,tous sexes
+835,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,10,93530,0.013,de 5 a  9 ans,tous sexes
+836,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,0,17450,,de 5 a  9 ans,tous sexes
+837,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,0,18360,,de 5 a  9 ans,tous sexes
+838,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,46,0,7490,,de 5 a  9 ans,tous sexes
+839,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,0,26080,,de 5 a  9 ans,tous sexes
+840,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,82,0,15250,,de 5 a  9 ans,tous sexes
+841,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,0,7360,,de 5 a  9 ans,tous sexes
+842,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,0,46050,,de 5 a  9 ans,tous sexes
+843,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,63,0,34820,,de 5 a  9 ans,tous sexes
+844,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,20,122540,0.019,de 5 a  9 ans,tous sexes
+845,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,73,0,24280,,de 5 a  9 ans,tous sexes
+846,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,20,128050,0.016,de 5 a  9 ans,tous sexes
+847,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,4,0,8360,,de 5 a  9 ans,tous sexes
+848,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,7230,,de 5 a  9 ans,tous sexes
+849,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,0,58440,,de 5 a  9 ans,tous sexes
+850,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,999,50,296350,0.016,de 5 a  9 ans,tous sexes
+851,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,6920,,de 5 a  9 ans,tous sexes
+852,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,7690,,de 5 a  9 ans,tous sexes
+853,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,670,3935480,0.017,de 5 a  9 ans,tous sexes
+854,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,972,0,10390,,de 10 a  14 ans,hommes
+855,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,9550,,de 10 a  14 ans,hommes
+856,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,0,37320,,de 10 a  14 ans,hommes
+857,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,999,70,399610,0.016,de 10 a  14 ans,hommes
+858,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,18,0,8510,,de 10 a  14 ans,hommes
+859,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,5590,,de 10 a  14 ans,hommes
+860,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,0,18660,,de 10 a  14 ans,hommes
+861,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,0,9810,,de 10 a  14 ans,hommes
+862,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,15120,,de 10 a  14 ans,hommes
+863,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,0,17660,,de 10 a  14 ans,hommes
+864,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,15630,,de 10 a  14 ans,hommes
+865,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,0,20430,,de 10 a  14 ans,hommes
+866,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,2,0,17350,,de 10 a  14 ans,hommes
+867,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,59,10,86590,0.013,de 10 a  14 ans,hommes
+868,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,0,17510,,de 10 a  14 ans,hommes
+869,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,30,199840,0.014,de 10 a  14 ans,hommes
+870,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,10,0,9570,,de 10 a  14 ans,hommes
+871,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,0,4600,,de 10 a  14 ans,hommes
+872,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,0,5100,,de 10 a  14 ans,hommes
+873,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,23430,,de 10 a  14 ans,hommes
+874,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,0,8190,,de 10 a  14 ans,hommes
+875,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,999,20,159160,0.013,de 10 a  14 ans,hommes
+876,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,0,17840,,de 10 a  14 ans,hommes
+877,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,0,17980,,de 10 a  14 ans,hommes
+878,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,9690,,de 10 a  14 ans,hommes
+879,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,0,18160,,de 10 a  14 ans,hommes
+880,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,0,6320,,de 10 a  14 ans,hommes
+881,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,23,0,2600,,de 10 a  14 ans,hommes
+882,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,0,10640,,de 10 a  14 ans,hommes
+883,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,0,50300,,de 10 a  14 ans,hommes
+884,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,0,23830,,de 10 a  14 ans,hommes
+885,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,9,0,4220,,de 10 a  14 ans,hommes
+886,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,0,21970,,de 10 a  14 ans,hommes
+887,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,38,0,43310,,de 10 a  14 ans,hommes
+888,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,43,0,6650,,de 10 a  14 ans,hommes
+889,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,0,62060,,de 10 a  14 ans,hommes
+890,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,7,0,9850,,de 10 a  14 ans,hommes
+891,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,999,30,256060,0.011,de 10 a  14 ans,hommes
+892,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,3960,,de 10 a  14 ans,hommes
+893,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,0,31150,,de 10 a  14 ans,hommes
+894,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,270,2106100,0.013,de 10 a  14 ans,hommes
+895,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,971,0,11470,,de 10 a  14 ans,femmes
+896,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,2,999,0,10090,,de 10 a  14 ans,femmes
+897,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,974,0,35560,,de 10 a  14 ans,femmes
+898,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,0,47620,,de 10 a  14 ans,femmes
+899,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,0,49730,,de 10 a  14 ans,femmes
+900,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,78,0,49770,,de 10 a  14 ans,femmes
+901,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,91,10,44930,0.027,de 10 a  14 ans,femmes
+902,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,10,56280,0.023,de 10 a  14 ans,femmes
+903,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,95,10,45230,0.024,de 10 a  14 ans,femmes
+904,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,58,0,4800,,de 10 a  14 ans,femmes
+905,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,14,0,20320,,de 10 a  14 ans,femmes
+906,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,0,38010,,de 10 a  14 ans,femmes
+907,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,60,0,27540,,de 10 a  14 ans,femmes
+908,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,20,190990,0.009,de 10 a  14 ans,femmes
+909,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,0,4960,,de 10 a  14 ans,femmes
+910,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,0,9900,,de 10 a  14 ans,femmes
+911,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,0,17300,,de 10 a  14 ans,femmes
+912,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,0,21240,,de 10 a  14 ans,femmes
+913,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,999,10,120540,0.009,de 10 a  14 ans,femmes
+914,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,22,0,17490,,de 10 a  14 ans,femmes
+915,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,35,0,34460,,de 10 a  14 ans,femmes
+916,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,56,0,22040,,de 10 a  14 ans,femmes
+917,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,9100,,de 10 a  14 ans,femmes
+918,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,19,0,6130,,de 10 a  14 ans,femmes
+919,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,0,11890,,de 10 a  14 ans,femmes
+920,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,87,0,9550,,de 10 a  14 ans,femmes
+921,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,20,166170,0.01,de 10 a  14 ans,femmes
+922,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,12,0,7230,,de 10 a  14 ans,femmes
+923,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,0,41170,,de 10 a  14 ans,femmes
+924,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,0,13830,,de 10 a  14 ans,femmes
+925,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,0,8570,,de 10 a  14 ans,femmes
+926,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,42,0,23300,,de 10 a  14 ans,femmes
+927,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,69,0,59120,,de 10 a  14 ans,femmes
+928,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,74,0,25120,,de 10 a  14 ans,femmes
+929,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,0,63130,,de 10 a  14 ans,femmes
+930,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,3760,,de 10 a  14 ans,femmes
+931,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,0,30090,,de 10 a  14 ans,femmes
+932,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,84,0,17790,,de 10 a  14 ans,femmes
+933,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,230,2016010,0.011,de 10 a  14 ans,femmes
+934,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,0,23310,,de 10 a  14 ans,tous sexes
+935,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,19050,,de 10 a  14 ans,tous sexes
+936,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,976,0,11010,,de 10 a  14 ans,tous sexes
+937,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,75,20,96350,0.016,de 10 a  14 ans,tous sexes
+938,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,94,0,87190,,de 10 a  14 ans,tous sexes
+939,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,10950,,de 10 a  14 ans,tous sexes
+940,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,37,0,36400,,de 10 a  14 ans,tous sexes
+941,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,0,34510,,de 10 a  14 ans,tous sexes
+942,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,30520,,de 10 a  14 ans,tous sexes
+943,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,89,0,19260,,de 10 a  14 ans,tous sexes
+944,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,27,0,40070,,de 10 a  14 ans,tous sexes
+945,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,50,0,27680,,de 10 a  14 ans,tous sexes
+946,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,76,0,77610,,de 10 a  14 ans,tous sexes
+947,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,80,0,34120,,de 10 a  14 ans,tous sexes
+948,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,50,390830,0.012,de 10 a  14 ans,tous sexes
+949,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,0,33850,,de 10 a  14 ans,tous sexes
+950,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,55,0,10060,,de 10 a  14 ans,tous sexes
+951,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,68,0,45390,,de 10 a  14 ans,tous sexes
+952,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,88,0,20420,,de 10 a  14 ans,tous sexes
+953,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,44,10,94050,0.014,de 10 a  14 ans,tous sexes
+954,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,49,0,53900,,de 10 a  14 ans,tous sexes
+955,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,20,203620,0.008,de 10 a  14 ans,tous sexes
+956,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,16,0,18790,,de 10 a  14 ans,tous sexes
+957,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,24,0,20870,,de 10 a  14 ans,tous sexes
+958,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,0,24480,,de 10 a  14 ans,tous sexes
+959,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,47,0,18830,,de 10 a  14 ans,tous sexes
+960,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,64,0,37570,,de 10 a  14 ans,tous sexes
+961,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,999,30,339840,0.009,de 10 a  14 ans,tous sexes
+962,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,30,0,46760,,de 10 a  14 ans,tous sexes
+963,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,31,0,84140,,de 10 a  14 ans,tous sexes
+964,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,66,0,28300,,de 10 a  14 ans,tous sexes
+965,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,76,81,0,22850,,de 10 a  14 ans,tous sexes
+966,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,1,0,42740,,de 10 a  14 ans,tous sexes
+967,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,84,3,0,17410,,de 10 a  14 ans,tous sexes
+968,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,13,20,129280,0.016,de 10 a  14 ans,tous sexes
+969,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,5,0,7710,,de 10 a  14 ans,tous sexes
+970,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,6,0,60840,,de 10 a  14 ans,tous sexes
+971,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,93,83,10,61580,0.018,de 10 a  14 ans,tous sexes
+972,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,94,,0,8490,,de 10 a  14 ans,tous sexes
+973,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,99,999,500,4122100,0.012,de 10 a  14 ans,tous sexes
+974,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,1,999,0,12830,,de 15 a  19 ans,hommes
+975,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,3,999,0,9020,,de 15 a  19 ans,hommes
+976,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,4,999,0,36510,,de 15 a  19 ans,hommes
+977,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,6,999,0,4920,,de 15 a  19 ans,hommes
+978,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,77,10,48490,0.027,de 15 a  19 ans,hommes
+979,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,93,20,53870,0.028,de 15 a  19 ans,hommes
+980,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,11,999,100,378540,0.027,de 15 a  19 ans,hommes
+981,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,36,0,5840,,de 15 a  19 ans,hommes
+982,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,24,41,0,10010,,de 15 a  19 ans,hommes
+983,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,21,0,15280,,de 15 a  19 ans,hommes
+984,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,25,0,17280,,de 15 a  19 ans,hommes
+985,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,70,0,7340,,de 15 a  19 ans,hommes
+986,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,71,0,15980,,de 15 a  19 ans,hommes
+987,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,27,90,0,4440,,de 15 a  19 ans,hommes
+988,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,28,14,0,21390,,de 15 a  19 ans,hommes
+989,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,32,999,40,193950,0.018,de 15 a  19 ans,hommes
+990,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,51,0,17020,,de 15 a  19 ans,hommes
+991,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,52,0,4800,,de 15 a  19 ans,hommes
+992,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,57,0,26350,,de 15 a  19 ans,hommes
+993,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,44,8,0,8290,,de 15 a  19 ans,hommes
+994,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,72,0,18000,,de 15 a  19 ans,hommes
+995,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,52,85,0,22160,,de 15 a  19 ans,hommes
+996,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,35,0,34630,,de 15 a  19 ans,hommes
+997,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,53,999,0,105100,,de 15 a  19 ans,hommes
+998,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,17,0,18900,,de 15 a  19 ans,hommes
+999,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,33,0,49320,,de 15 a  19 ans,hommes
+1000,2021,Maladies cardioneurovasculaires,Insuffisance cardiaque,Insuffisance cardiaque chronique,MCV_ICA_CHR,75,40,0,12470,,de 15 a  19 ans,hommes

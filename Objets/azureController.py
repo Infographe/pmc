@@ -59,16 +59,13 @@ class AzureController:
             data = pd.DataFrame(rows_list, columns=columns)
             
             # Afficher les données dans la console
-            print(f"Données récupérées avec succès :\n{data.head()}")  # Affiche tout le DataFrame dans la console
+            print(f"Azure => Données récupérées avec succès :\n{data.head()}")  # Affiche tout le DataFrame dans la console
 
             return data
 
         except pyodbc.Error as e:
             print(f"Erreur lors de la récupération des données : {e.args}")
             return None
-
-
-
 
     def delete_data(self):
         try:
